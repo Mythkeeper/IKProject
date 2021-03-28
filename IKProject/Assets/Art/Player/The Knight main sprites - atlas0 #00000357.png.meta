@@ -1,0 +1,3266 @@
+fileFormatVersion: 2
+guid: 64fc492ff7ee87b408a2a472720d5a72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4016397945216688812
+    second: The Knight main sprites - atlas0 #00000357_0
+  - first:
+      213: 1607456064240676168
+    second: The Knight main sprites - atlas0 #00000357_1
+  - first:
+      213: 4899237298809345764
+    second: The Knight main sprites - atlas0 #00000357_2
+  - first:
+      213: -2113367483907323018
+    second: The Knight main sprites - atlas0 #00000357_3
+  - first:
+      213: 7799058323718722514
+    second: The Knight main sprites - atlas0 #00000357_4
+  - first:
+      213: -3555718840441895542
+    second: The Knight main sprites - atlas0 #00000357_5
+  - first:
+      213: -5724082190243652743
+    second: The Knight main sprites - atlas0 #00000357_6
+  - first:
+      213: 2676815858292698089
+    second: The Knight main sprites - atlas0 #00000357_7
+  - first:
+      213: -4127080178490084999
+    second: The Knight main sprites - atlas0 #00000357_8
+  - first:
+      213: 4304850463146611321
+    second: The Knight main sprites - atlas0 #00000357_9
+  - first:
+      213: 3738404528586486763
+    second: The Knight main sprites - atlas0 #00000357_10
+  - first:
+      213: 4358277588073155477
+    second: The Knight main sprites - atlas0 #00000357_11
+  - first:
+      213: 5802668514094894136
+    second: The Knight main sprites - atlas0 #00000357_12
+  - first:
+      213: 2443874347493037141
+    second: The Knight main sprites - atlas0 #00000357_13
+  - first:
+      213: 3208450100599516167
+    second: The Knight main sprites - atlas0 #00000357_14
+  - first:
+      213: 5516774693568448815
+    second: The Knight main sprites - atlas0 #00000357_15
+  - first:
+      213: -3007390006181409092
+    second: The Knight main sprites - atlas0 #00000357_16
+  - first:
+      213: -7272205592693213632
+    second: The Knight main sprites - atlas0 #00000357_17
+  - first:
+      213: 6218540370734718134
+    second: The Knight main sprites - atlas0 #00000357_18
+  - first:
+      213: -2952767179329376198
+    second: The Knight main sprites - atlas0 #00000357_19
+  - first:
+      213: -8928992798100992907
+    second: The Knight main sprites - atlas0 #00000357_20
+  - first:
+      213: 1420672960060755782
+    second: The Knight main sprites - atlas0 #00000357_21
+  - first:
+      213: 5929674275210153167
+    second: The Knight main sprites - atlas0 #00000357_22
+  - first:
+      213: -808093975510508449
+    second: The Knight main sprites - atlas0 #00000357_23
+  - first:
+      213: -2315449603160533714
+    second: The Knight main sprites - atlas0 #00000357_24
+  - first:
+      213: 1019662544557742037
+    second: The Knight main sprites - atlas0 #00000357_25
+  - first:
+      213: -4594088109733436909
+    second: The Knight main sprites - atlas0 #00000357_26
+  - first:
+      213: 4629320517632761555
+    second: The Knight main sprites - atlas0 #00000357_27
+  - first:
+      213: 3318397987221027465
+    second: The Knight main sprites - atlas0 #00000357_28
+  - first:
+      213: -739182924351746906
+    second: The Knight main sprites - atlas0 #00000357_29
+  - first:
+      213: -1077028823634740617
+    second: The Knight main sprites - atlas0 #00000357_30
+  - first:
+      213: 2734456987061269776
+    second: The Knight main sprites - atlas0 #00000357_31
+  - first:
+      213: -1521886377182167152
+    second: The Knight main sprites - atlas0 #00000357_32
+  - first:
+      213: 1846869523380706864
+    second: The Knight main sprites - atlas0 #00000357_33
+  - first:
+      213: 1902736483980728470
+    second: The Knight main sprites - atlas0 #00000357_34
+  - first:
+      213: -1833096605548725141
+    second: The Knight main sprites - atlas0 #00000357_35
+  - first:
+      213: 4559853035788112281
+    second: The Knight main sprites - atlas0 #00000357_36
+  - first:
+      213: -8313225550267581338
+    second: The Knight main sprites - atlas0 #00000357_37
+  - first:
+      213: -5378233857128265367
+    second: The Knight main sprites - atlas0 #00000357_38
+  - first:
+      213: 3955092728403302209
+    second: The Knight main sprites - atlas0 #00000357_39
+  - first:
+      213: 8265247833923404914
+    second: The Knight main sprites - atlas0 #00000357_40
+  - first:
+      213: 1687805117167464990
+    second: The Knight main sprites - atlas0 #00000357_41
+  - first:
+      213: -2506612039115831806
+    second: The Knight main sprites - atlas0 #00000357_42
+  - first:
+      213: -8462981894174489322
+    second: The Knight main sprites - atlas0 #00000357_43
+  - first:
+      213: -3932299339836761722
+    second: The Knight main sprites - atlas0 #00000357_44
+  - first:
+      213: 1359213236706643982
+    second: The Knight main sprites - atlas0 #00000357_45
+  - first:
+      213: -1905752660651208148
+    second: The Knight main sprites - atlas0 #00000357_46
+  - first:
+      213: 2897537181237239688
+    second: The Knight main sprites - atlas0 #00000357_47
+  - first:
+      213: 3115618097723461126
+    second: The Knight main sprites - atlas0 #00000357_48
+  - first:
+      213: 8726448491114024494
+    second: The Knight main sprites - atlas0 #00000357_49
+  - first:
+      213: -3638485059705862539
+    second: The Knight main sprites - atlas0 #00000357_50
+  - first:
+      213: 4366107870508484383
+    second: The Knight main sprites - atlas0 #00000357_51
+  - first:
+      213: 2741646773508825869
+    second: The Knight main sprites - atlas0 #00000357_52
+  - first:
+      213: -3784740363655162361
+    second: The Knight main sprites - atlas0 #00000357_53
+  - first:
+      213: 3642443501983656161
+    second: The Knight main sprites - atlas0 #00000357_54
+  - first:
+      213: 7751237517807299515
+    second: The Knight main sprites - atlas0 #00000357_55
+  - first:
+      213: -4159404360197377970
+    second: The Knight main sprites - atlas0 #00000357_56
+  - first:
+      213: -5404637249490631354
+    second: The Knight main sprites - atlas0 #00000357_57
+  - first:
+      213: 7712641532395899401
+    second: The Knight main sprites - atlas0 #00000357_58
+  - first:
+      213: -7659406246843835135
+    second: The Knight main sprites - atlas0 #00000357_59
+  - first:
+      213: -8654394095871728045
+    second: The Knight main sprites - atlas0 #00000357_60
+  - first:
+      213: 7167010246161963241
+    second: The Knight main sprites - atlas0 #00000357_61
+  - first:
+      213: 3287655430280315535
+    second: The Knight main sprites - atlas0 #00000357_62
+  - first:
+      213: -1721312531639844326
+    second: The Knight main sprites - atlas0 #00000357_63
+  - first:
+      213: -2436521978224577669
+    second: The Knight main sprites - atlas0 #00000357_64
+  - first:
+      213: -410598166404250059
+    second: The Knight main sprites - atlas0 #00000357_65
+  - first:
+      213: -5644284272172377732
+    second: The Knight main sprites - atlas0 #00000357_66
+  - first:
+      213: 6444821484479297547
+    second: The Knight main sprites - atlas0 #00000357_67
+  - first:
+      213: 6468578216387475872
+    second: The Knight main sprites - atlas0 #00000357_68
+  - first:
+      213: 9149502062384409869
+    second: The Knight main sprites - atlas0 #00000357_69
+  - first:
+      213: -2128289563440847784
+    second: The Knight main sprites - atlas0 #00000357_70
+  - first:
+      213: 3453418672417776307
+    second: The Knight main sprites - atlas0 #00000357_71
+  - first:
+      213: 942575703913901179
+    second: The Knight main sprites - atlas0 #00000357_72
+  - first:
+      213: 7277467004728096583
+    second: The Knight main sprites - atlas0 #00000357_73
+  - first:
+      213: -8414608389300992653
+    second: The Knight main sprites - atlas0 #00000357_74
+  - first:
+      213: 3152584454446976389
+    second: The Knight main sprites - atlas0 #00000357_75
+  - first:
+      213: 2092203701318918975
+    second: The Knight main sprites - atlas0 #00000357_76
+  - first:
+      213: 1730414320597281692
+    second: The Knight main sprites - atlas0 #00000357_77
+  - first:
+      213: -9083241585677300815
+    second: The Knight main sprites - atlas0 #00000357_78
+  - first:
+      213: 965144337596611960
+    second: The Knight main sprites - atlas0 #00000357_79
+  - first:
+      213: -5799695800556450069
+    second: The Knight main sprites - atlas0 #00000357_80
+  - first:
+      213: 207397530878287207
+    second: The Knight main sprites - atlas0 #00000357_81
+  - first:
+      213: -4753946150415218055
+    second: The Knight main sprites - atlas0 #00000357_82
+  - first:
+      213: -7551122021247984126
+    second: The Knight main sprites - atlas0 #00000357_83
+  - first:
+      213: -60948875146380334
+    second: The Knight main sprites - atlas0 #00000357_84
+  - first:
+      213: -8997693056895365447
+    second: The Knight main sprites - atlas0 #00000357_85
+  - first:
+      213: -4476353943876837849
+    second: The Knight main sprites - atlas0 #00000357_86
+  - first:
+      213: 5863590081906375656
+    second: The Knight main sprites - atlas0 #00000357_87
+  - first:
+      213: -4658516989930248859
+    second: The Knight main sprites - atlas0 #00000357_88
+  - first:
+      213: -2297377003195750301
+    second: The Knight main sprites - atlas0 #00000357_89
+  - first:
+      213: -2535573208150641786
+    second: The Knight main sprites - atlas0 #00000357_90
+  - first:
+      213: 5488654093102969205
+    second: The Knight main sprites - atlas0 #00000357_91
+  - first:
+      213: -2805791563466437485
+    second: The Knight main sprites - atlas0 #00000357_92
+  - first:
+      213: 5991804651588439381
+    second: The Knight main sprites - atlas0 #00000357_93
+  - first:
+      213: -4462175437581337147
+    second: The Knight main sprites - atlas0 #00000357_94
+  - first:
+      213: 2377024968523955802
+    second: The Knight main sprites - atlas0 #00000357_95
+  - first:
+      213: 5230110870021895361
+    second: The Knight main sprites - atlas0 #00000357_96
+  - first:
+      213: 2955199197702665775
+    second: The Knight main sprites - atlas0 #00000357_97
+  - first:
+      213: -1146961083004144801
+    second: The Knight main sprites - atlas0 #00000357_98
+  - first:
+      213: -1627591842984018684
+    second: The Knight main sprites - atlas0 #00000357_99
+  - first:
+      213: 729534907451672827
+    second: The Knight main sprites - atlas0 #00000357_100
+  - first:
+      213: 3968895157970930342
+    second: The Knight main sprites - atlas0 #00000357_101
+  - first:
+      213: 5102934335260388448
+    second: The Knight main sprites - atlas0 #00000357_102
+  - first:
+      213: 3059297159045913818
+    second: The Knight main sprites - atlas0 #00000357_103
+  - first:
+      213: 523118153981290014
+    second: The Knight main sprites - atlas0 #00000357_104
+  - first:
+      213: -8715079264383277716
+    second: The Knight main sprites - atlas0 #00000357_105
+  - first:
+      213: -7641925794411348984
+    second: The Knight main sprites - atlas0 #00000357_106
+  - first:
+      213: 6234062812054727557
+    second: The Knight main sprites - atlas0 #00000357_107
+  - first:
+      213: 4459778804738170391
+    second: The Knight main sprites - atlas0 #00000357_108
+  - first:
+      213: -865679466350085823
+    second: The Knight main sprites - atlas0 #00000357_109
+  - first:
+      213: 773052071249760185
+    second: The Knight main sprites - atlas0 #00000357_110
+  - first:
+      213: -185054435016242886
+    second: The Knight main sprites - atlas0 #00000357_111
+  - first:
+      213: 8097439758141447558
+    second: The Knight main sprites - atlas0 #00000357_112
+  - first:
+      213: -1241200778343748246
+    second: The Knight main sprites - atlas0 #00000357_113
+  - first:
+      213: 3828316212847121631
+    second: The Knight main sprites - atlas0 #00000357_114
+  - first:
+      213: -8421308668031815523
+    second: The Knight main sprites - atlas0 #00000357_115
+  - first:
+      213: 5038073963358315047
+    second: The Knight main sprites - atlas0 #00000357_116
+  - first:
+      213: 7818408473083315771
+    second: The Knight main sprites - atlas0 #00000357_117
+  - first:
+      213: 3614068511701319504
+    second: The Knight main sprites - atlas0 #00000357_118
+  - first:
+      213: -7379289568243594248
+    second: The Knight main sprites - atlas0 #00000357_119
+  - first:
+      213: 4169465330345749744
+    second: The Knight main sprites - atlas0 #00000357_120
+  - first:
+      213: 7879332223541883514
+    second: The Knight main sprites - atlas0 #00000357_121
+  - first:
+      213: -6692845184679183426
+    second: The Knight main sprites - atlas0 #00000357_122
+  - first:
+      213: -2648961910795407321
+    second: The Knight main sprites - atlas0 #00000357_123
+  - first:
+      213: -8586001667169623538
+    second: The Knight main sprites - atlas0 #00000357_124
+  - first:
+      213: 5831323548945007958
+    second: The Knight main sprites - atlas0 #00000357_125
+  - first:
+      213: 4338032999699798897
+    second: The Knight main sprites - atlas0 #00000357_126
+  - first:
+      213: 1790004274581617283
+    second: The Knight main sprites - atlas0 #00000357_127
+  - first:
+      213: -3238752931142335042
+    second: The Knight main sprites - atlas0 #00000357_128
+  - first:
+      213: -5056374406961219552
+    second: The Knight main sprites - atlas0 #00000357_129
+  - first:
+      213: -2947106911122561248
+    second: The Knight main sprites - atlas0 #00000357_130
+  - first:
+      213: -3059107681247200253
+    second: The Knight main sprites - atlas0 #00000357_131
+  - first:
+      213: -4173437014312248405
+    second: The Knight main sprites - atlas0 #00000357_132
+  - first:
+      213: -1288415504005047926
+    second: The Knight main sprites - atlas0 #00000357_133
+  - first:
+      213: 1648908530522780829
+    second: The Knight main sprites - atlas0 #00000357_134
+  - first:
+      213: 7131652556275722937
+    second: The Knight main sprites - atlas0 #00000357_135
+  - first:
+      213: 3637750188197352180
+    second: The Knight main sprites - atlas0 #00000357_136
+  - first:
+      213: -6634949291595939748
+    second: The Knight main sprites - atlas0 #00000357_137
+  - first:
+      213: -6563717788839825837
+    second: The Knight main sprites - atlas0 #00000357_138
+  - first:
+      213: 4974241145551780814
+    second: The Knight main sprites - atlas0 #00000357_139
+  - first:
+      213: 4927234124699191331
+    second: The Knight main sprites - atlas0 #00000357_140
+  - first:
+      213: 7882535972364463285
+    second: The Knight main sprites - atlas0 #00000357_141
+  - first:
+      213: -7774155364338460424
+    second: The Knight main sprites - atlas0 #00000357_142
+  - first:
+      213: -7311838486440902250
+    second: The Knight main sprites - atlas0 #00000357_143
+  - first:
+      213: 3420878308025749604
+    second: The Knight main sprites - atlas0 #00000357_144
+  - first:
+      213: 614756499803763895
+    second: The Knight main sprites - atlas0 #00000357_145
+  - first:
+      213: -218784916907268135
+    second: The Knight main sprites - atlas0 #00000357_146
+  - first:
+      213: -380206848540316980
+    second: The Knight main sprites - atlas0 #00000357_147
+  - first:
+      213: 2469699103995771886
+    second: The Knight main sprites - atlas0 #00000357_148
+  - first:
+      213: 5672784535322441444
+    second: The Knight main sprites - atlas0 #00000357_149
+  - first:
+      213: -3341132974541468884
+    second: The Knight main sprites - atlas0 #00000357_150
+  - first:
+      213: 3721622826099479497
+    second: The Knight main sprites - atlas0 #00000357_151
+  - first:
+      213: 8586155866971989020
+    second: The Knight main sprites - atlas0 #00000357_152
+  - first:
+      213: -8661116254633414972
+    second: The Knight main sprites - atlas0 #00000357_153
+  - first:
+      213: -8442777669776806482
+    second: The Knight main sprites - atlas0 #00000357_154
+  - first:
+      213: 7422726083738893763
+    second: The Knight main sprites - atlas0 #00000357_155
+  - first:
+      213: -4232890935169735172
+    second: The Knight main sprites - atlas0 #00000357_156
+  - first:
+      213: 1887572939594925666
+    second: The Knight main sprites - atlas0 #00000357_157
+  - first:
+      213: 5682939452961999539
+    second: The Knight main sprites - atlas0 #00000357_158
+  - first:
+      213: 5992260173052586479
+    second: The Knight main sprites - atlas0 #00000357_159
+  - first:
+      213: 370671472164036464
+    second: The Knight main sprites - atlas0 #00000357_160
+  - first:
+      213: 216406881845278001
+    second: The Knight main sprites - atlas0 #00000357_161
+  - first:
+      213: 666672495080721066
+    second: The Knight main sprites - atlas0 #00000357_162
+  - first:
+      213: -1365331901465402239
+    second: The Knight main sprites - atlas0 #00000357_163
+  - first:
+      213: 1981348589081585888
+    second: The Knight main sprites - atlas0 #00000357_164
+  - first:
+      213: 4197428471284402913
+    second: The Knight main sprites - atlas0 #00000357_165
+  - first:
+      213: -5058319427520239914
+    second: The Knight main sprites - atlas0 #00000357_166
+  - first:
+      213: -4227348757287288254
+    second: The Knight main sprites - atlas0 #00000357_167
+  - first:
+      213: -1474978155388652155
+    second: The Knight main sprites - atlas0 #00000357_168
+  - first:
+      213: 3978424131250771319
+    second: The Knight main sprites - atlas0 #00000357_169
+  - first:
+      213: -6497777170363776876
+    second: The Knight main sprites - atlas0 #00000357_170
+  - first:
+      213: -998053470571758096
+    second: The Knight main sprites - atlas0 #00000357_171
+  - first:
+      213: -6473623739100591994
+    second: The Knight main sprites - atlas0 #00000357_172
+  - first:
+      213: -8607043477525484768
+    second: The Knight main sprites - atlas0 #00000357_173
+  - first:
+      213: 1425935698804545410
+    second: The Knight main sprites - atlas0 #00000357_174
+  - first:
+      213: -3490829242646804529
+    second: The Knight main sprites - atlas0 #00000357_175
+  - first:
+      213: 4325573713740148897
+    second: The Knight main sprites - atlas0 #00000357_176
+  - first:
+      213: 5388713637929369665
+    second: The Knight main sprites - atlas0 #00000357_177
+  - first:
+      213: -8383183973143990406
+    second: The Knight main sprites - atlas0 #00000357_178
+  - first:
+      213: 6054895211641548527
+    second: The Knight main sprites - atlas0 #00000357_179
+  - first:
+      213: 8645805439540053193
+    second: The Knight main sprites - atlas0 #00000357_180
+  - first:
+      213: 2325647004484035280
+    second: The Knight main sprites - atlas0 #00000357_181
+  - first:
+      213: 2285506481821618483
+    second: The Knight main sprites - atlas0 #00000357_182
+  - first:
+      213: -3408981139023620423
+    second: The Knight main sprites - atlas0 #00000357_183
+  - first:
+      213: 2355684649343507553
+    second: The Knight main sprites - atlas0 #00000357_184
+  - first:
+      213: -7660692608600144418
+    second: The Knight main sprites - atlas0 #00000357_185
+  - first:
+      213: -140790315191753877
+    second: The Knight main sprites - atlas0 #00000357_186
+  - first:
+      213: -4239115060728599438
+    second: The Knight main sprites - atlas0 #00000357_187
+  - first:
+      213: -9174651846372048899
+    second: The Knight main sprites - atlas0 #00000357_188
+  - first:
+      213: -9052772560247290871
+    second: The Knight main sprites - atlas0 #00000357_189
+  - first:
+      213: -2482769460123941922
+    second: The Knight main sprites - atlas0 #00000357_190
+  - first:
+      213: 8469220184622728465
+    second: The Knight main sprites - atlas0 #00000357_191
+  - first:
+      213: 3583577665340214527
+    second: The Knight main sprites - atlas0 #00000357_192
+  - first:
+      213: 1021027425314515252
+    second: The Knight main sprites - atlas0 #00000357_193
+  - first:
+      213: 2288178571625452186
+    second: The Knight main sprites - atlas0 #00000357_194
+  - first:
+      213: -8843046032009582922
+    second: The Knight main sprites - atlas0 #00000357_195
+  - first:
+      213: 4125882721818059141
+    second: The Knight main sprites - atlas0 #00000357_196
+  - first:
+      213: 4775214055713843653
+    second: The Knight main sprites - atlas0 #00000357_197
+  - first:
+      213: 890979770031351378
+    second: The Knight main sprites - atlas0 #00000357_198
+  - first:
+      213: 37023005209171460
+    second: The Knight main sprites - atlas0 #00000357_199
+  - first:
+      213: -1697677327547272403
+    second: The Knight main sprites - atlas0 #00000357_200
+  - first:
+      213: -7674071548600604971
+    second: The Knight main sprites - atlas0 #00000357_201
+  - first:
+      213: 6037735226530561789
+    second: The Knight main sprites - atlas0 #00000357_202
+  - first:
+      213: 5931248822053045556
+    second: The Knight main sprites - atlas0 #00000357_203
+  - first:
+      213: -7517330783550551848
+    second: The Knight main sprites - atlas0 #00000357_204
+  - first:
+      213: -2110291513332351582
+    second: The Knight main sprites - atlas0 #00000357_205
+  - first:
+      213: -3910494345698575441
+    second: The Knight main sprites - atlas0 #00000357_206
+  - first:
+      213: 182988427481170463
+    second: The Knight main sprites - atlas0 #00000357_207
+  - first:
+      213: 2973916284775329352
+    second: The Knight main sprites - atlas0 #00000357_208
+  - first:
+      213: 326967635251195945
+    second: The Knight main sprites - atlas0 #00000357_209
+  - first:
+      213: 7202070672169137869
+    second: The Knight main sprites - atlas0 #00000357_210
+  - first:
+      213: -365063163574625938
+    second: The Knight main sprites - atlas0 #00000357_211
+  - first:
+      213: 4186645308830822417
+    second: The Knight main sprites - atlas0 #00000357_212
+  - first:
+      213: 8193449063705841345
+    second: The Knight main sprites - atlas0 #00000357_213
+  - first:
+      213: 4170000665840619289
+    second: The Knight main sprites - atlas0 #00000357_214
+  - first:
+      213: 5201521513161044324
+    second: The Knight main sprites - atlas0 #00000357_215
+  - first:
+      213: -7682561065171330820
+    second: The Knight main sprites - atlas0 #00000357_216
+  - first:
+      213: 6456692373500103229
+    second: The Knight main sprites - atlas0 #00000357_217
+  - first:
+      213: 4853968213028563093
+    second: The Knight main sprites - atlas0 #00000357_218
+  - first:
+      213: 8202361264780907522
+    second: The Knight main sprites - atlas0 #00000357_219
+  - first:
+      213: 9044680994903830921
+    second: The Knight main sprites - atlas0 #00000357_220
+  - first:
+      213: -6609959613456662054
+    second: The Knight main sprites - atlas0 #00000357_221
+  - first:
+      213: -7093286698953514671
+    second: The Knight main sprites - atlas0 #00000357_222
+  - first:
+      213: -8643598109321568028
+    second: The Knight main sprites - atlas0 #00000357_223
+  - first:
+      213: 7012343074475411947
+    second: The Knight main sprites - atlas0 #00000357_224
+  - first:
+      213: -8009921825464647591
+    second: The Knight main sprites - atlas0 #00000357_225
+  - first:
+      213: 5294724339397820953
+    second: The Knight main sprites - atlas0 #00000357_226
+  - first:
+      213: -1384685350367117001
+    second: The Knight main sprites - atlas0 #00000357_227
+  - first:
+      213: -6545862253896010090
+    second: The Knight main sprites - atlas0 #00000357_228
+  - first:
+      213: -3907714899704168458
+    second: The Knight main sprites - atlas0 #00000357_229
+  - first:
+      213: 3940574140318672685
+    second: The Knight main sprites - atlas0 #00000357_230
+  - first:
+      213: -1477149778745227102
+    second: The Knight main sprites - atlas0 #00000357_231
+  - first:
+      213: 117092373472045190
+    second: The Knight main sprites - atlas0 #00000357_232
+  - first:
+      213: 7542124504199312313
+    second: The Knight main sprites - atlas0 #00000357_233
+  - first:
+      213: 2328562884958445570
+    second: The Knight main sprites - atlas0 #00000357_234
+  - first:
+      213: 2154722612855595099
+    second: The Knight main sprites - atlas0 #00000357_235
+  - first:
+      213: -3578116879206239164
+    second: The Knight main sprites - atlas0 #00000357_236
+  - first:
+      213: -3307904870683985660
+    second: The Knight main sprites - atlas0 #00000357_237
+  - first:
+      213: 7720732913093297920
+    second: The Knight main sprites - atlas0 #00000357_238
+  - first:
+      213: -402732607775179840
+    second: The Knight main sprites - atlas0 #00000357_239
+  - first:
+      213: 1146316390354233156
+    second: The Knight main sprites - atlas0 #00000357_240
+  - first:
+      213: 4878847822808836892
+    second: The Knight main sprites - atlas0 #00000357_241
+  - first:
+      213: 7764062621320854507
+    second: The Knight main sprites - atlas0 #00000357_242
+  - first:
+      213: -1644312590700822928
+    second: The Knight main sprites - atlas0 #00000357_243
+  - first:
+      213: -2846450810783825897
+    second: The Knight main sprites - atlas0 #00000357_244
+  - first:
+      213: -5518746364412145152
+    second: The Knight main sprites - atlas0 #00000357_245
+  - first:
+      213: 2819820720570774540
+    second: The Knight main sprites - atlas0 #00000357_246
+  - first:
+      213: -2110144929220106653
+    second: The Knight main sprites - atlas0 #00000357_247
+  - first:
+      213: -8073704257627499616
+    second: The Knight main sprites - atlas0 #00000357_248
+  - first:
+      213: -3100619987545923958
+    second: The Knight main sprites - atlas0 #00000357_249
+  - first:
+      213: -2885679172400861100
+    second: The Knight main sprites - atlas0 #00000357_250
+  - first:
+      213: 3441019035236528360
+    second: The Knight main sprites - atlas0 #00000357_251
+  - first:
+      213: 5782660649155588156
+    second: The Knight main sprites - atlas0 #00000357_252
+  - first:
+      213: 6908701094802318601
+    second: The Knight main sprites - atlas0 #00000357_253
+  - first:
+      213: 1670271065981259118
+    second: The Knight main sprites - atlas0 #00000357_254
+  - first:
+      213: -2605188636464574010
+    second: The Knight main sprites - atlas0 #00000357_255
+  - first:
+      213: 7757173831706906829
+    second: The Knight main sprites - atlas0 #00000357_256
+  - first:
+      213: 2311783872338724187
+    second: The Knight main sprites - atlas0 #00000357_257
+  - first:
+      213: 1357881475014966179
+    second: The Knight main sprites - atlas0 #00000357_258
+  - first:
+      213: -9180418811018959108
+    second: The Knight main sprites - atlas0 #00000357_259
+  - first:
+      213: -5434482038900156133
+    second: The Knight main sprites - atlas0 #00000357_260
+  - first:
+      213: -3849510409710447713
+    second: The Knight main sprites - atlas0 #00000357_261
+  - first:
+      213: 4116942797202683126
+    second: The Knight main sprites - atlas0 #00000357_262
+  - first:
+      213: -7650430401656074072
+    second: The Knight main sprites - atlas0 #00000357_263
+  - first:
+      213: -3420538659322768794
+    second: The Knight main sprites - atlas0 #00000357_264
+  - first:
+      213: 2197240164080116961
+    second: The Knight main sprites - atlas0 #00000357_265
+  - first:
+      213: 2834539692394728888
+    second: The Knight main sprites - atlas0 #00000357_266
+  - first:
+      213: -8452460095122351108
+    second: The Knight main sprites - atlas0 #00000357_267
+  - first:
+      213: -2860955795530707810
+    second: The Knight main sprites - atlas0 #00000357_268
+  - first:
+      213: 7843466955051050784
+    second: The Knight main sprites - atlas0 #00000357_269
+  - first:
+      213: 7347499575932393626
+    second: The Knight main sprites - atlas0 #00000357_270
+  - first:
+      213: 1069671689320649357
+    second: The Knight main sprites - atlas0 #00000357_271
+  - first:
+      213: 8069981240989291923
+    second: The Knight main sprites - atlas0 #00000357_272
+  - first:
+      213: 4842765468101013505
+    second: The Knight main sprites - atlas0 #00000357_273
+  - first:
+      213: -8438623566730367936
+    second: The Knight main sprites - atlas0 #00000357_274
+  - first:
+      213: -2165168663146096690
+    second: The Knight main sprites - atlas0 #00000357_275
+  - first:
+      213: -1777387843072186787
+    second: The Knight main sprites - atlas0 #00000357_276
+  - first:
+      213: 8287098143243103820
+    second: The Knight main sprites - atlas0 #00000357_277
+  - first:
+      213: -1537975501844449037
+    second: The Knight main sprites - atlas0 #00000357_278
+  - first:
+      213: 3796586661393018735
+    second: The Knight main sprites - atlas0 #00000357_279
+  - first:
+      213: -3839823278739195339
+    second: The Knight main sprites - atlas0 #00000357_280
+  - first:
+      213: 3467256945062328622
+    second: The Knight main sprites - atlas0 #00000357_281
+  - first:
+      213: 6680563894605533278
+    second: The Knight main sprites - atlas0 #00000357_282
+  - first:
+      213: 1483389562964934810
+    second: The Knight main sprites - atlas0 #00000357_283
+  - first:
+      213: 8240762727448820741
+    second: The Knight main sprites - atlas0 #00000357_284
+  - first:
+      213: -6623023168464933409
+    second: The Knight main sprites - atlas0 #00000357_285
+  - first:
+      213: 6468472897114623512
+    second: The Knight main sprites - atlas0 #00000357_286
+  - first:
+      213: -7573128043455007629
+    second: The Knight main sprites - atlas0 #00000357_287
+  - first:
+      213: -8099917821077106685
+    second: The Knight main sprites - atlas0 #00000357_288
+  - first:
+      213: 7451955897824493432
+    second: The Knight main sprites - atlas0 #00000357_289
+  - first:
+      213: -6380664344114151229
+    second: The Knight main sprites - atlas0 #00000357_290
+  - first:
+      213: 2012178864566293818
+    second: The Knight main sprites - atlas0 #00000357_291
+  - first:
+      213: 6112161575961639559
+    second: The Knight main sprites - atlas0 #00000357_292
+  - first:
+      213: -7518886999352250205
+    second: The Knight main sprites - atlas0 #00000357_293
+  - first:
+      213: 1151490527940396664
+    second: The Knight main sprites - atlas0 #00000357_294
+  - first:
+      213: -3777893947108973899
+    second: The Knight main sprites - atlas0 #00000357_295
+  - first:
+      213: -1016651507328059059
+    second: The Knight main sprites - atlas0 #00000357_296
+  - first:
+      213: -4927027040047195052
+    second: The Knight main sprites - atlas0 #00000357_297
+  - first:
+      213: 7009730253207094667
+    second: The Knight main sprites - atlas0 #00000357_298
+  - first:
+      213: -648172200746611485
+    second: The Knight main sprites - atlas0 #00000357_299
+  - first:
+      213: 165160196572009334
+    second: The Knight main sprites - atlas0 #00000357_300
+  - first:
+      213: 216515050970448829
+    second: The Knight main sprites - atlas0 #00000357_301
+  - first:
+      213: -7056248893429140735
+    second: The Knight main sprites - atlas0 #00000357_302
+  - first:
+      213: -1526588429316188155
+    second: The Knight main sprites - atlas0 #00000357_303
+  - first:
+      213: -4677801413942523491
+    second: The Knight main sprites - atlas0 #00000357_304
+  - first:
+      213: 5964683317247269560
+    second: The Knight main sprites - atlas0 #00000357_305
+  - first:
+      213: -5977288920840865966
+    second: The Knight main sprites - atlas0 #00000357_306
+  - first:
+      213: 8813367879800726226
+    second: The Knight main sprites - atlas0 #00000357_307
+  - first:
+      213: 3355539115518703502
+    second: The Knight main sprites - atlas0 #00000357_308
+  - first:
+      213: -3983896573490536921
+    second: The Knight main sprites - atlas0 #00000357_309
+  - first:
+      213: -5867174702958215708
+    second: The Knight main sprites - atlas0 #00000357_310
+  - first:
+      213: 3830570448423855040
+    second: The Knight main sprites - atlas0 #00000357_311
+  - first:
+      213: 8488591599421834087
+    second: The Knight main sprites - atlas0 #00000357_312
+  - first:
+      213: 8651663857908362275
+    second: The Knight main sprites - atlas0 #00000357_313
+  - first:
+      213: 4431039234044094511
+    second: The Knight main sprites - atlas0 #00000357_314
+  - first:
+      213: -8533989386773615766
+    second: The Knight main sprites - atlas0 #00000357_315
+  - first:
+      213: -4579482820641095607
+    second: The Knight main sprites - atlas0 #00000357_316
+  - first:
+      213: 7131039846869973916
+    second: The Knight main sprites - atlas0 #00000357_317
+  - first:
+      213: -7429598087471406616
+    second: The Knight main sprites - atlas0 #00000357_318
+  - first:
+      213: 6966291018384533128
+    second: The Knight main sprites - atlas0 #00000357_319
+  - first:
+      213: -7881886648177336129
+    second: The Knight main sprites - atlas0 #00000357_320
+  - first:
+      213: 3667770183017732573
+    second: The Knight main sprites - atlas0 #00000357_321
+  - first:
+      213: 8056827195269675864
+    second: The Knight main sprites - atlas0 #00000357_322
+  - first:
+      213: -1922867829489211471
+    second: The Knight main sprites - atlas0 #00000357_323
+  - first:
+      213: 6055593312914882747
+    second: The Knight main sprites - atlas0 #00000357_324
+  - first:
+      213: 6969028481422829602
+    second: The Knight main sprites - atlas0 #00000357_325
+  - first:
+      213: -4095133369011223125
+    second: The Knight main sprites - atlas0 #00000357_326
+  - first:
+      213: -3998599174153643257
+    second: The Knight main sprites - atlas0 #00000357_327
+  - first:
+      213: -7065506057418865381
+    second: The Knight main sprites - atlas0 #00000357_328
+  - first:
+      213: -8601793151754249616
+    second: The Knight main sprites - atlas0 #00000357_329
+  - first:
+      213: 6497188583679446110
+    second: The Knight main sprites - atlas0 #00000357_330
+  - first:
+      213: 346179805561961216
+    second: The Knight main sprites - atlas0 #00000357_331
+  - first:
+      213: -6577180734816988983
+    second: The Knight main sprites - atlas0 #00000357_332
+  - first:
+      213: -6451204719576750767
+    second: The Knight main sprites - atlas0 #00000357_333
+  - first:
+      213: -8282876169958694925
+    second: The Knight main sprites - atlas0 #00000357_334
+  - first:
+      213: 5243187843544396723
+    second: The Knight main sprites - atlas0 #00000357_335
+  - first:
+      213: 3388421129094771524
+    second: The Knight main sprites - atlas0 #00000357_336
+  - first:
+      213: -5944245065367771822
+    second: The Knight main sprites - atlas0 #00000357_337
+  - first:
+      213: 6267151183762987343
+    second: The Knight main sprites - atlas0 #00000357_338
+  - first:
+      213: -8472921997577421176
+    second: The Knight main sprites - atlas0 #00000357_339
+  - first:
+      213: -2452065991793279981
+    second: The Knight main sprites - atlas0 #00000357_340
+  - first:
+      213: -4885417992317877283
+    second: The Knight main sprites - atlas0 #00000357_341
+  - first:
+      213: 7481682304168712503
+    second: The Knight main sprites - atlas0 #00000357_342
+  - first:
+      213: -4200565777710293817
+    second: The Knight main sprites - atlas0 #00000357_343
+  - first:
+      213: -7931098237153513703
+    second: The Knight main sprites - atlas0 #00000357_344
+  - first:
+      213: 2361628329182409438
+    second: The Knight main sprites - atlas0 #00000357_345
+  - first:
+      213: 7441388585079332426
+    second: The Knight main sprites - atlas0 #00000357_346
+  - first:
+      213: -420092575839885622
+    second: The Knight main sprites - atlas0 #00000357_347
+  - first:
+      213: -5999942300780833375
+    second: The Knight main sprites - atlas0 #00000357_348
+  - first:
+      213: 1164944513183249423
+    second: The Knight main sprites - atlas0 #00000357_349
+  - first:
+      213: -7166318579798357470
+    second: The Knight main sprites - atlas0 #00000357_350
+  - first:
+      213: 4950075405510075230
+    second: The Knight main sprites - atlas0 #00000357_351
+  - first:
+      213: -7118332192921423086
+    second: The Knight main sprites - atlas0 #00000357_352
+  - first:
+      213: 3709715870526784147
+    second: The Knight main sprites - atlas0 #00000357_353
+  - first:
+      213: -2133167826919220150
+    second: The Knight main sprites - atlas0 #00000357_354
+  - first:
+      213: -3712227769841762044
+    second: The Knight main sprites - atlas0 #00000357_355
+  - first:
+      213: 8214823236198108314
+    second: The Knight main sprites - atlas0 #00000357_356
+  - first:
+      213: -8597459862404422532
+    second: The Knight main sprites - atlas0 #00000357_357
+  - first:
+      213: -3817536638055445464
+    second: The Knight main sprites - atlas0 #00000357_358
+  - first:
+      213: 7505161418817568472
+    second: The Knight main sprites - atlas0 #00000357_359
+  - first:
+      213: -100346342220161682
+    second: The Knight main sprites - atlas0 #00000357_360
+  - first:
+      213: 3136868044854315217
+    second: The Knight main sprites - atlas0 #00000357_361
+  - first:
+      213: 2467479960690252899
+    second: The Knight main sprites - atlas0 #00000357_362
+  - first:
+      213: 1959559020083949435
+    second: The Knight main sprites - atlas0 #00000357_363
+  - first:
+      213: 814960178509400663
+    second: The Knight main sprites - atlas0 #00000357_364
+  - first:
+      213: -4544308889072530534
+    second: The Knight main sprites - atlas0 #00000357_365
+  - first:
+      213: 7841708942856905044
+    second: The Knight main sprites - atlas0 #00000357_366
+  - first:
+      213: -6633707830308937956
+    second: The Knight main sprites - atlas0 #00000357_367
+  - first:
+      213: -539410334728553972
+    second: The Knight main sprites - atlas0 #00000357_368
+  - first:
+      213: -9001949785811096372
+    second: The Knight main sprites - atlas0 #00000357_369
+  - first:
+      213: -3978796851518056620
+    second: The Knight main sprites - atlas0 #00000357_370
+  - first:
+      213: 18043797648423560
+    second: The Knight main sprites - atlas0 #00000357_371
+  - first:
+      213: -8561824818523790259
+    second: The Knight main sprites - atlas0 #00000357_372
+  - first:
+      213: -14225535827613510
+    second: The Knight main sprites - atlas0 #00000357_373
+  - first:
+      213: -2531973126388986982
+    second: The Knight main sprites - atlas0 #00000357_374
+  - first:
+      213: 6659086927333305761
+    second: The Knight main sprites - atlas0 #00000357_375
+  - first:
+      213: -8190400736277104791
+    second: The Knight main sprites - atlas0 #00000357_376
+  - first:
+      213: 3081204649251349987
+    second: The Knight main sprites - atlas0 #00000357_377
+  - first:
+      213: -4727018204147223838
+    second: The Knight main sprites - atlas0 #00000357_378
+  - first:
+      213: 3889659941868671585
+    second: The Knight main sprites - atlas0 #00000357_379
+  - first:
+      213: -6398244169350163654
+    second: The Knight main sprites - atlas0 #00000357_380
+  - first:
+      213: -1918230424918634825
+    second: The Knight main sprites - atlas0 #00000357_381
+  - first:
+      213: 6275732659673727151
+    second: The Knight main sprites - atlas0 #00000357_382
+  - first:
+      213: -8638471286408676516
+    second: The Knight main sprites - atlas0 #00000357_383
+  - first:
+      213: -6018526063016459970
+    second: The Knight main sprites - atlas0 #00000357_384
+  - first:
+      213: 4033795723907453877
+    second: The Knight main sprites - atlas0 #00000357_385
+  - first:
+      213: 666604321822403083
+    second: The Knight main sprites - atlas0 #00000357_386
+  - first:
+      213: 1945115293218897531
+    second: The Knight main sprites - atlas0 #00000357_387
+  - first:
+      213: 1482849504670211790
+    second: The Knight main sprites - atlas0 #00000357_388
+  - first:
+      213: -8276900347083153529
+    second: The Knight main sprites - atlas0 #00000357_389
+  - first:
+      213: -4113792845394889155
+    second: The Knight main sprites - atlas0 #00000357_390
+  - first:
+      213: -6592990622630213862
+    second: The Knight main sprites - atlas0 #00000357_391
+  - first:
+      213: 6418219236568429148
+    second: The Knight main sprites - atlas0 #00000357_392
+  - first:
+      213: -4851791602290099223
+    second: The Knight main sprites - atlas0 #00000357_393
+  - first:
+      213: 8522121696907549029
+    second: The Knight main sprites - atlas0 #00000357_394
+  - first:
+      213: -7167475385651968651
+    second: The Knight main sprites - atlas0 #00000357_395
+  - first:
+      213: -5829906452179130802
+    second: The Knight main sprites - atlas0 #00000357_396
+  - first:
+      213: 564080016801173843
+    second: The Knight main sprites - atlas0 #00000357_397
+  - first:
+      213: 3267345755485651054
+    second: The Knight main sprites - atlas0 #00000357_398
+  - first:
+      213: -4272643559383652178
+    second: The Knight main sprites - atlas0 #00000357_399
+  - first:
+      213: 6318235311007761349
+    second: The Knight main sprites - atlas0 #00000357_400
+  - first:
+      213: -5869753126234532054
+    second: The Knight main sprites - atlas0 #00000357_401
+  - first:
+      213: -6702871046718635720
+    second: The Knight main sprites - atlas0 #00000357_402
+  - first:
+      213: -2902853065654841825
+    second: The Knight main sprites - atlas0 #00000357_403
+  - first:
+      213: 1810545640566218956
+    second: The Knight main sprites - atlas0 #00000357_404
+  - first:
+      213: 2655215878649427414
+    second: The Knight main sprites - atlas0 #00000357_405
+  - first:
+      213: 3168450900096850077
+    second: The Knight main sprites - atlas0 #00000357_406
+  - first:
+      213: 5174686038742287097
+    second: The Knight main sprites - atlas0 #00000357_407
+  - first:
+      213: -7448056348284812078
+    second: The Knight main sprites - atlas0 #00000357_408
+  - first:
+      213: -8026406725898611601
+    second: The Knight main sprites - atlas0 #00000357_409
+  - first:
+      213: 5019754067419695771
+    second: The Knight main sprites - atlas0 #00000357_410
+  - first:
+      213: -5432320648117196801
+    second: The Knight main sprites - atlas0 #00000357_411
+  - first:
+      213: -7494996813160546930
+    second: The Knight main sprites - atlas0 #00000357_412
+  - first:
+      213: 1736363420254686998
+    second: The Knight main sprites - atlas0 #00000357_413
+  - first:
+      213: -6217461359378574699
+    second: The Knight main sprites - atlas0 #00000357_414
+  - first:
+      213: 6636355109033960035
+    second: The Knight main sprites - atlas0 #00000357_415
+  - first:
+      213: 4177697112539822870
+    second: The Knight main sprites - atlas0 #00000357_416
+  - first:
+      213: 3670609406063473093
+    second: The Knight main sprites - atlas0 #00000357_417
+  - first:
+      213: -920130775804833540
+    second: The Knight main sprites - atlas0 #00000357_418
+  - first:
+      213: 9050424503175570435
+    second: The Knight main sprites - atlas0 #00000357_419
+  - first:
+      213: -4460737486800614112
+    second: The Knight main sprites - atlas0 #00000357_420
+  - first:
+      213: 2245673311387483031
+    second: The Knight main sprites - atlas0 #00000357_421
+  - first:
+      213: -5620055226962651841
+    second: The Knight main sprites - atlas0 #00000357_422
+  - first:
+      213: 4801845279054148249
+    second: The Knight main sprites - atlas0 #00000357_423
+  - first:
+      213: -9023302126092647011
+    second: The Knight main sprites - atlas0 #00000357_424
+  - first:
+      213: 8610882278265840072
+    second: The Knight main sprites - atlas0 #00000357_425
+  - first:
+      213: 9003100814527633551
+    second: The Knight main sprites - atlas0 #00000357_426
+  - first:
+      213: -2140996126349496575
+    second: The Knight main sprites - atlas0 #00000357_427
+  - first:
+      213: -7599062069241284044
+    second: The Knight main sprites - atlas0 #00000357_428
+  - first:
+      213: 6330358485866584825
+    second: The Knight main sprites - atlas0 #00000357_429
+  - first:
+      213: 5871658052560335128
+    second: The Knight main sprites - atlas0 #00000357_430
+  - first:
+      213: 5025939362800191394
+    second: The Knight main sprites - atlas0 #00000357_431
+  - first:
+      213: 304325892310926332
+    second: The Knight main sprites - atlas0 #00000357_432
+  - first:
+      213: 7753416669179530166
+    second: The Knight main sprites - atlas0 #00000357_433
+  - first:
+      213: 6648378417450054163
+    second: The Knight main sprites - atlas0 #00000357_434
+  - first:
+      213: -9207620542766092761
+    second: The Knight main sprites - atlas0 #00000357_435
+  - first:
+      213: -4986496119454571811
+    second: The Knight main sprites - atlas0 #00000357_436
+  - first:
+      213: 5427102296246478958
+    second: The Knight main sprites - atlas0 #00000357_437
+  - first:
+      213: -6320851917294574863
+    second: The Knight main sprites - atlas0 #00000357_438
+  - first:
+      213: -842264981201803992
+    second: The Knight main sprites - atlas0 #00000357_439
+  - first:
+      213: 2794000506205585511
+    second: The Knight main sprites - atlas0 #00000357_440
+  - first:
+      213: 5634849444531731743
+    second: The Knight main sprites - atlas0 #00000357_441
+  - first:
+      213: -7926539945758473706
+    second: The Knight main sprites - atlas0 #00000357_442
+  - first:
+      213: -443593095451603950
+    second: The Knight main sprites - atlas0 #00000357_443
+  - first:
+      213: 5451871143977907750
+    second: The Knight main sprites - atlas0 #00000357_444
+  - first:
+      213: 7020713649922277086
+    second: The Knight main sprites - atlas0 #00000357_445
+  - first:
+      213: -5539912771284719087
+    second: The Knight main sprites - atlas0 #00000357_446
+  - first:
+      213: 254001869752402427
+    second: The Knight main sprites - atlas0 #00000357_447
+  - first:
+      213: 3831417450338292262
+    second: The Knight main sprites - atlas0 #00000357_448
+  - first:
+      213: 6905091336971352301
+    second: The Knight main sprites - atlas0 #00000357_449
+  - first:
+      213: 4629612451983144694
+    second: The Knight main sprites - atlas0 #00000357_450
+  - first:
+      213: 1993165177979982206
+    second: The Knight main sprites - atlas0 #00000357_451
+  - first:
+      213: 5177637753607889842
+    second: The Knight main sprites - atlas0 #00000357_452
+  - first:
+      213: 2911837134308991439
+    second: The Knight main sprites - atlas0 #00000357_453
+  - first:
+      213: 4975151587930947582
+    second: The Knight main sprites - atlas0 #00000357_454
+  - first:
+      213: -1746555512012001640
+    second: The Knight main sprites - atlas0 #00000357_455
+  - first:
+      213: 4507461563183629927
+    second: The Knight main sprites - atlas0 #00000357_456
+  - first:
+      213: 5536263172754002247
+    second: The Knight main sprites - atlas0 #00000357_457
+  - first:
+      213: 1927689783032046398
+    second: The Knight main sprites - atlas0 #00000357_458
+  - first:
+      213: 2928367814592606844
+    second: The Knight main sprites - atlas0 #00000357_459
+  - first:
+      213: -7832894453968033792
+    second: The Knight main sprites - atlas0 #00000357_460
+  - first:
+      213: 2232104435755121512
+    second: The Knight main sprites - atlas0 #00000357_461
+  - first:
+      213: 5240383964967272271
+    second: The Knight main sprites - atlas0 #00000357_462
+  - first:
+      213: -614910503420556502
+    second: The Knight main sprites - atlas0 #00000357_463
+  - first:
+      213: 7209156069563365456
+    second: The Knight main sprites - atlas0 #00000357_464
+  - first:
+      213: 5644084118409597446
+    second: The Knight main sprites - atlas0 #00000357_465
+  - first:
+      213: 4020579092638625963
+    second: The Knight main sprites - atlas0 #00000357_466
+  - first:
+      213: -1469180122191812950
+    second: The Knight main sprites - atlas0 #00000357_467
+  - first:
+      213: -8517449964213531282
+    second: The Knight main sprites - atlas0 #00000357_468
+  - first:
+      213: -8812652926333343984
+    second: The Knight main sprites - atlas0 #00000357_469
+  - first:
+      213: -3081559281130494996
+    second: The Knight main sprites - atlas0 #00000357_470
+  - first:
+      213: -4585080767385429850
+    second: The Knight main sprites - atlas0 #00000357_471
+  - first:
+      213: 2943993991167906092
+    second: The Knight main sprites - atlas0 #00000357_472
+  - first:
+      213: -8574131465460750722
+    second: The Knight main sprites - atlas0 #00000357_473
+  - first:
+      213: 5830413776968615618
+    second: The Knight main sprites - atlas0 #00000357_474
+  - first:
+      213: 1541578958425993728
+    second: The Knight main sprites - atlas0 #00000357_475
+  - first:
+      213: -6933856008802143351
+    second: The Knight main sprites - atlas0 #00000357_476
+  - first:
+      213: -7342941353414864362
+    second: The Knight main sprites - atlas0 #00000357_477
+  - first:
+      213: -3430611074471679708
+    second: The Knight main sprites - atlas0 #00000357_478
+  - first:
+      213: 6185227924020019516
+    second: The Knight main sprites - atlas0 #00000357_479
+  - first:
+      213: -856063597189960849
+    second: The Knight main sprites - atlas0 #00000357_480
+  - first:
+      213: -2758202789495218223
+    second: The Knight main sprites - atlas0 #00000357_481
+  - first:
+      213: 442912304861412527
+    second: The Knight main sprites - atlas0 #00000357_482
+  - first:
+      213: 8726842657616243798
+    second: The Knight main sprites - atlas0 #00000357_483
+  - first:
+      213: 1268997169780745540
+    second: The Knight main sprites - atlas0 #00000357_484
+  - first:
+      213: -720232731020859166
+    second: The Knight main sprites - atlas0 #00000357_485
+  - first:
+      213: 999314820297389943
+    second: The Knight main sprites - atlas0 #00000357_486
+  - first:
+      213: -4321035341714247763
+    second: The Knight main sprites - atlas0 #00000357_487
+  - first:
+      213: -2063385995362394202
+    second: The Knight main sprites - atlas0 #00000357_488
+  - first:
+      213: 5306146754464768193
+    second: The Knight main sprites - atlas0 #00000357_489
+  - first:
+      213: 5670515308434081023
+    second: The Knight main sprites - atlas0 #00000357_490
+  - first:
+      213: -2148200602749334851
+    second: The Knight main sprites - atlas0 #00000357_491
+  - first:
+      213: 5304890049218706300
+    second: The Knight main sprites - atlas0 #00000357_492
+  - first:
+      213: 2192663427201213318
+    second: The Knight main sprites - atlas0 #00000357_493
+  - first:
+      213: 7660991503239317190
+    second: The Knight main sprites - atlas0 #00000357_494
+  - first:
+      213: 218361360818598293
+    second: The Knight main sprites - atlas0 #00000357_495
+  - first:
+      213: -2572542297900286851
+    second: The Knight main sprites - atlas0 #00000357_496
+  - first:
+      213: -2879012402330077631
+    second: The Knight main sprites - atlas0 #00000357_497
+  - first:
+      213: -3435136091616873398
+    second: The Knight main sprites - atlas0 #00000357_498
+  - first:
+      213: -6378195058244392974
+    second: The Knight main sprites - atlas0 #00000357_499
+  - first:
+      213: 899469963203512658
+    second: The Knight main sprites - atlas0 #00000357_500
+  - first:
+      213: 2999544501347995667
+    second: The Knight main sprites - atlas0 #00000357_501
+  - first:
+      213: -4090474563815407432
+    second: The Knight main sprites - atlas0 #00000357_502
+  - first:
+      213: 4690722798894877017
+    second: The Knight main sprites - atlas0 #00000357_503
+  - first:
+      213: -3530255207916536693
+    second: The Knight main sprites - atlas0 #00000357_504
+  - first:
+      213: -1497541732255868855
+    second: The Knight main sprites - atlas0 #00000357_505
+  - first:
+      213: 2066966741526078509
+    second: The Knight main sprites - atlas0 #00000357_506
+  - first:
+      213: -4447302734628291806
+    second: The Knight main sprites - atlas0 #00000357_507
+  - first:
+      213: 1885799473277618676
+    second: The Knight main sprites - atlas0 #00000357_508
+  - first:
+      213: 4612409192218352392
+    second: The Knight main sprites - atlas0 #00000357_509
+  - first:
+      213: 7777965590627734540
+    second: The Knight main sprites - atlas0 #00000357_510
+  - first:
+      213: 6764070841417745443
+    second: The Knight main sprites - atlas0 #00000357_511
+  - first:
+      213: 8142911378381828786
+    second: The Knight main sprites - atlas0 #00000357_512
+  - first:
+      213: -5567672686391088615
+    second: The Knight main sprites - atlas0 #00000357_513
+  - first:
+      213: 4386059721873859788
+    second: The Knight main sprites - atlas0 #00000357_514
+  - first:
+      213: 1808174729285177012
+    second: The Knight main sprites - atlas0 #00000357_515
+  - first:
+      213: 3524068622821378163
+    second: The Knight main sprites - atlas0 #00000357_516
+  - first:
+      213: 400482907215375749
+    second: The Knight main sprites - atlas0 #00000357_517
+  - first:
+      213: -4228343804336662049
+    second: The Knight main sprites - atlas0 #00000357_518
+  - first:
+      213: -7889034751597607882
+    second: The Knight main sprites - atlas0 #00000357_519
+  - first:
+      213: -6749237008734673676
+    second: The Knight main sprites - atlas0 #00000357_520
+  - first:
+      213: -4571877938795987764
+    second: The Knight main sprites - atlas0 #00000357_521
+  - first:
+      213: -7972492491121932630
+    second: The Knight main sprites - atlas0 #00000357_522
+  - first:
+      213: 9204387757421462666
+    second: The Knight main sprites - atlas0 #00000357_523
+  - first:
+      213: -5895940696778821337
+    second: The Knight main sprites - atlas0 #00000357_524
+  - first:
+      213: -4156121294609031348
+    second: The Knight main sprites - atlas0 #00000357_525
+  - first:
+      213: -8214050782748320481
+    second: The Knight main sprites - atlas0 #00000357_526
+  - first:
+      213: -1286288372122524193
+    second: The Knight main sprites - atlas0 #00000357_527
+  - first:
+      213: 3458922286843529455
+    second: The Knight main sprites - atlas0 #00000357_528
+  - first:
+      213: 3644390495242352748
+    second: The Knight main sprites - atlas0 #00000357_529
+  - first:
+      213: 6835296247431415238
+    second: The Knight main sprites - atlas0 #00000357_530
+  - first:
+      213: -4267145708280441374
+    second: The Knight main sprites - atlas0 #00000357_531
+  - first:
+      213: 6535395142275070024
+    second: The Knight main sprites - atlas0 #00000357_532
+  - first:
+      213: 324404954497004448
+    second: The Knight main sprites - atlas0 #00000357_533
+  - first:
+      213: -3813353282687847957
+    second: The Knight main sprites - atlas0 #00000357_534
+  - first:
+      213: 6851440350603357038
+    second: The Knight main sprites - atlas0 #00000357_535
+  - first:
+      213: 3850713567719279720
+    second: The Knight main sprites - atlas0 #00000357_536
+  - first:
+      213: 916191169936153574
+    second: The Knight main sprites - atlas0 #00000357_537
+  - first:
+      213: -7797354377790943729
+    second: The Knight main sprites - atlas0 #00000357_538
+  - first:
+      213: 2344542010585043834
+    second: The Knight main sprites - atlas0 #00000357_539
+  - first:
+      213: -1721844235172947306
+    second: The Knight main sprites - atlas0 #00000357_540
+  - first:
+      213: 6114938011142788563
+    second: The Knight main sprites - atlas0 #00000357_541
+  - first:
+      213: -4097437787497485575
+    second: The Knight main sprites - atlas0 #00000357_542
+  - first:
+      213: -8574056861637442319
+    second: The Knight main sprites - atlas0 #00000357_543
+  - first:
+      213: -5672725587927938773
+    second: The Knight main sprites - atlas0 #00000357_544
+  - first:
+      213: -4534720002777179984
+    second: The Knight main sprites - atlas0 #00000357_545
+  - first:
+      213: -4017733469880317706
+    second: The Knight main sprites - atlas0 #00000357_546
+  - first:
+      213: 1831672073498649707
+    second: The Knight main sprites - atlas0 #00000357_547
+  - first:
+      213: -1334359714021265346
+    second: The Knight main sprites - atlas0 #00000357_548
+  - first:
+      213: 1403572889905047698
+    second: The Knight main sprites - atlas0 #00000357_549
+  - first:
+      213: -2396091301569852123
+    second: The Knight main sprites - atlas0 #00000357_550
+  - first:
+      213: -5613300422027391850
+    second: The Knight main sprites - atlas0 #00000357_551
+  - first:
+      213: 4027296865783487301
+    second: The Knight main sprites - atlas0 #00000357_552
+  - first:
+      213: 1127454188498373900
+    second: The Knight main sprites - atlas0 #00000357_553
+  - first:
+      213: 7725854486876912396
+    second: The Knight main sprites - atlas0 #00000357_554
+  - first:
+      213: 8131182807661804047
+    second: The Knight main sprites - atlas0 #00000357_555
+  - first:
+      213: -7870082021708868864
+    second: The Knight main sprites - atlas0 #00000357_556
+  - first:
+      213: 2806083806712177684
+    second: The Knight main sprites - atlas0 #00000357_557
+  - first:
+      213: 8421391720291504908
+    second: The Knight main sprites - atlas0 #00000357_558
+  - first:
+      213: -8376497752303886354
+    second: The Knight main sprites - atlas0 #00000357_559
+  - first:
+      213: 2240065566012194728
+    second: The Knight main sprites - atlas0 #00000357_560
+  - first:
+      213: 5118007867495371220
+    second: The Knight main sprites - atlas0 #00000357_561
+  - first:
+      213: -3828399004121032632
+    second: The Knight main sprites - atlas0 #00000357_562
+  - first:
+      213: -54184140010978089
+    second: The Knight main sprites - atlas0 #00000357_563
+  - first:
+      213: -4812434270024807922
+    second: The Knight main sprites - atlas0 #00000357_564
+  - first:
+      213: 3087261075015449091
+    second: The Knight main sprites - atlas0 #00000357_565
+  - first:
+      213: 4619319362730350227
+    second: The Knight main sprites - atlas0 #00000357_566
+  - first:
+      213: -6576408947723920049
+    second: The Knight main sprites - atlas0 #00000357_567
+  - first:
+      213: -5697127021589106599
+    second: The Knight main sprites - atlas0 #00000357_568
+  - first:
+      213: 8121957091089717770
+    second: The Knight main sprites - atlas0 #00000357_569
+  - first:
+      213: -4753676234493839806
+    second: The Knight main sprites - atlas0 #00000357_570
+  - first:
+      213: 5008832069818303660
+    second: The Knight main sprites - atlas0 #00000357_571
+  - first:
+      213: 981841866490655003
+    second: The Knight main sprites - atlas0 #00000357_572
+  - first:
+      213: -2650754465486530781
+    second: The Knight main sprites - atlas0 #00000357_573
+  - first:
+      213: -7596857621220337149
+    second: The Knight main sprites - atlas0 #00000357_574
+  - first:
+      213: 3579429041793069290
+    second: The Knight main sprites - atlas0 #00000357_575
+  - first:
+      213: -4866792177250803598
+    second: The Knight main sprites - atlas0 #00000357_576
+  - first:
+      213: 6600936234172299803
+    second: The Knight main sprites - atlas0 #00000357_577
+  - first:
+      213: -4199653192655201040
+    second: The Knight main sprites - atlas0 #00000357_578
+  - first:
+      213: -99886457445052953
+    second: The Knight main sprites - atlas0 #00000357_579
+  - first:
+      213: -4135477143007321845
+    second: The Knight main sprites - atlas0 #00000357_580
+  - first:
+      213: 4199868396199520680
+    second: The Knight main sprites - atlas0 #00000357_581
+  - first:
+      213: -263726774409472310
+    second: The Knight main sprites - atlas0 #00000357_582
+  - first:
+      213: 8861476005804938835
+    second: The Knight main sprites - atlas0 #00000357_583
+  - first:
+      213: -1092840477926422707
+    second: The Knight main sprites - atlas0 #00000357_584
+  - first:
+      213: 7764864716537350022
+    second: The Knight main sprites - atlas0 #00000357_585
+  - first:
+      213: -247294863098750023
+    second: The Knight main sprites - atlas0 #00000357_586
+  - first:
+      213: 7240032844313212206
+    second: The Knight main sprites - atlas0 #00000357_587
+  - first:
+      213: -3717410629397657820
+    second: The Knight main sprites - atlas0 #00000357_588
+  - first:
+      213: -156998829468793893
+    second: The Knight main sprites - atlas0 #00000357_589
+  - first:
+      213: -1833697624671609266
+    second: The Knight main sprites - atlas0 #00000357_590
+  - first:
+      213: -900189067867077094
+    second: The Knight main sprites - atlas0 #00000357_591
+  - first:
+      213: -4412945637282379570
+    second: The Knight main sprites - atlas0 #00000357_592
+  - first:
+      213: -3532525773049492199
+    second: The Knight main sprites - atlas0 #00000357_593
+  - first:
+      213: -3772471230028052823
+    second: The Knight main sprites - atlas0 #00000357_594
+  - first:
+      213: 2788156495747736229
+    second: The Knight main sprites - atlas0 #00000357_595
+  - first:
+      213: 4164732659965143248
+    second: The Knight main sprites - atlas0 #00000357_596
+  - first:
+      213: -1025575201855709520
+    second: The Knight main sprites - atlas0 #00000357_597
+  - first:
+      213: -1301704561401040444
+    second: The Knight main sprites - atlas0 #00000357_598
+  - first:
+      213: -7758923478940573024
+    second: The Knight main sprites - atlas0 #00000357_599
+  - first:
+      213: 2179422730061718994
+    second: The Knight main sprites - atlas0 #00000357_600
+  - first:
+      213: -8724311060036598482
+    second: The Knight main sprites - atlas0 #00000357_601
+  - first:
+      213: -4185614718828526276
+    second: The Knight main sprites - atlas0 #00000357_602
+  - first:
+      213: -2100794164336202374
+    second: The Knight main sprites - atlas0 #00000357_603
+  - first:
+      213: 4153260244908834745
+    second: The Knight main sprites - atlas0 #00000357_604
+  - first:
+      213: 6497185904915901038
+    second: The Knight main sprites - atlas0 #00000357_605
+  - first:
+      213: -6225651787470435518
+    second: The Knight main sprites - atlas0 #00000357_606
+  - first:
+      213: 7052928484123185672
+    second: The Knight main sprites - atlas0 #00000357_607
+  - first:
+      213: 2669359072273865459
+    second: The Knight main sprites - atlas0 #00000357_608
+  - first:
+      213: -4890968417508353178
+    second: The Knight main sprites - atlas0 #00000357_609
+  - first:
+      213: -9126501867661068343
+    second: The Knight main sprites - atlas0 #00000357_610
+  - first:
+      213: 910690987916901926
+    second: The Knight main sprites - atlas0 #00000357_611
+  - first:
+      213: -6372406237169442
+    second: The Knight main sprites - atlas0 #00000357_612
+  - first:
+      213: -8096547342822703770
+    second: The Knight main sprites - atlas0 #00000357_613
+  - first:
+      213: 2018038148759004761
+    second: The Knight main sprites - atlas0 #00000357_614
+  - first:
+      213: -9134203170835241666
+    second: The Knight main sprites - atlas0 #00000357_615
+  - first:
+      213: 1372014822497440957
+    second: The Knight main sprites - atlas0 #00000357_616
+  - first:
+      213: -3372895675762707128
+    second: The Knight main sprites - atlas0 #00000357_617
+  - first:
+      213: -7630488833563638507
+    second: The Knight main sprites - atlas0 #00000357_618
+  - first:
+      213: 9142060938846332824
+    second: The Knight main sprites - atlas0 #00000357_619
+  - first:
+      213: 6590375842410174169
+    second: The Knight main sprites - atlas0 #00000357_620
+  - first:
+      213: -2495119332471894165
+    second: The Knight main sprites - atlas0 #00000357_621
+  - first:
+      213: 5225050152909783288
+    second: The Knight main sprites - atlas0 #00000357_622
+  - first:
+      213: -5604583387448625661
+    second: The Knight main sprites - atlas0 #00000357_623
+  - first:
+      213: -6392884053939017300
+    second: The Knight main sprites - atlas0 #00000357_624
+  - first:
+      213: -1054204559869497580
+    second: The Knight main sprites - atlas0 #00000357_625
+  - first:
+      213: 7886612056707575449
+    second: The Knight main sprites - atlas0 #00000357_626
+  - first:
+      213: 656402497436179863
+    second: The Knight main sprites - atlas0 #00000357_627
+  - first:
+      213: -5313185256340040848
+    second: The Knight main sprites - atlas0 #00000357_628
+  - first:
+      213: -191258821211086736
+    second: The Knight main sprites - atlas0 #00000357_629
+  - first:
+      213: 6491425093250586521
+    second: The Knight main sprites - atlas0 #00000357_630
+  - first:
+      213: -1979944210276178479
+    second: The Knight main sprites - atlas0 #00000357_631
+  - first:
+      213: 2858539665647361406
+    second: The Knight main sprites - atlas0 #00000357_632
+  - first:
+      213: 8232880440846465536
+    second: The Knight main sprites - atlas0 #00000357_633
+  - first:
+      213: 5448325427052891519
+    second: The Knight main sprites - atlas0 #00000357_634
+  - first:
+      213: 6060313494114567556
+    second: The Knight main sprites - atlas0 #00000357_635
+  - first:
+      213: 5678805028749372513
+    second: The Knight main sprites - atlas0 #00000357_636
+  - first:
+      213: 7520284470290447687
+    second: The Knight main sprites - atlas0 #00000357_637
+  - first:
+      213: 6581336208934774963
+    second: The Knight main sprites - atlas0 #00000357_638
+  - first:
+      213: -2243803858882386108
+    second: The Knight main sprites - atlas0 #00000357_639
+  - first:
+      213: 7476656064649659647
+    second: The Knight main sprites - atlas0 #00000357_640
+  - first:
+      213: 1625338478825596823
+    second: The Knight main sprites - atlas0 #00000357_641
+  - first:
+      213: 3578667994327089123
+    second: The Knight main sprites - atlas0 #00000357_642
+  - first:
+      213: -8013216421301674462
+    second: The Knight main sprites - atlas0 #00000357_643
+  - first:
+      213: 701813935973459724
+    second: The Knight main sprites - atlas0 #00000357_644
+  - first:
+      213: 8805126940987459618
+    second: The Knight main sprites - atlas0 #00000357_645
+  - first:
+      213: 3970250360058502986
+    second: The Knight main sprites - atlas0 #00000357_646
+  - first:
+      213: 274875467059741875
+    second: The Knight main sprites - atlas0 #00000357_647
+  - first:
+      213: -2821228424011905237
+    second: The Knight main sprites - atlas0 #00000357_648
+  - first:
+      213: -2430359852553418565
+    second: The Knight main sprites - atlas0 #00000357_649
+  - first:
+      213: -8561927841532499911
+    second: The Knight main sprites - atlas0 #00000357_650
+  - first:
+      213: -6909503987037456337
+    second: The Knight main sprites - atlas0 #00000357_651
+  - first:
+      213: 5480091856644306965
+    second: The Knight main sprites - atlas0 #00000357_652
+  - first:
+      213: -448896559658315092
+    second: The Knight main sprites - atlas0 #00000357_653
+  - first:
+      213: 5959245394522654743
+    second: The Knight main sprites - atlas0 #00000357_654
+  - first:
+      213: -6611066647593789941
+    second: The Knight main sprites - atlas0 #00000357_655
+  - first:
+      213: 7061298865122900647
+    second: The Knight main sprites - atlas0 #00000357_656
+  - first:
+      213: -6372124581757219431
+    second: The Knight main sprites - atlas0 #00000357_657
+  - first:
+      213: 2456568545202326474
+    second: The Knight main sprites - atlas0 #00000357_658
+  - first:
+      213: 5824472600114467715
+    second: The Knight main sprites - atlas0 #00000357_659
+  - first:
+      213: -6927289588218765038
+    second: The Knight main sprites - atlas0 #00000357_660
+  - first:
+      213: -4707932975044810818
+    second: The Knight main sprites - atlas0 #00000357_661
+  - first:
+      213: -2928833574295199296
+    second: The Knight main sprites - atlas0 #00000357_662
+  - first:
+      213: -7675443797951402762
+    second: The Knight main sprites - atlas0 #00000357_663
+  - first:
+      213: -7125189234140658416
+    second: The Knight main sprites - atlas0 #00000357_664
+  - first:
+      213: -4450022643262851020
+    second: The Knight main sprites - atlas0 #00000357_665
+  - first:
+      213: 1640444683682208397
+    second: The Knight main sprites - atlas0 #00000357_666
+  - first:
+      213: -4245511606641800335
+    second: The Knight main sprites - atlas0 #00000357_667
+  - first:
+      213: 6177404274655288188
+    second: The Knight main sprites - atlas0 #00000357_668
+  - first:
+      213: -534667366238405153
+    second: The Knight main sprites - atlas0 #00000357_669
+  - first:
+      213: -4100987633082373003
+    second: The Knight main sprites - atlas0 #00000357_670
+  - first:
+      213: -3057418963693765172
+    second: The Knight main sprites - atlas0 #00000357_671
+  - first:
+      213: 2913666702954805417
+    second: The Knight main sprites - atlas0 #00000357_672
+  - first:
+      213: -2166820725845397842
+    second: The Knight main sprites - atlas0 #00000357_673
+  - first:
+      213: -6921956117769265688
+    second: The Knight main sprites - atlas0 #00000357_674
+  - first:
+      213: 8878852730739195780
+    second: The Knight main sprites - atlas0 #00000357_675
+  - first:
+      213: 6092192822852281913
+    second: The Knight main sprites - atlas0 #00000357_676
+  - first:
+      213: -725475147859016406
+    second: The Knight main sprites - atlas0 #00000357_677
+  - first:
+      213: 1032582770078389253
+    second: The Knight main sprites - atlas0 #00000357_678
+  - first:
+      213: 2305609451408884335
+    second: The Knight main sprites - atlas0 #00000357_679
+  - first:
+      213: -577338645662730492
+    second: The Knight main sprites - atlas0 #00000357_680
+  - first:
+      213: 1358173620900585168
+    second: The Knight main sprites - atlas0 #00000357_681
+  - first:
+      213: -896566738651340387
+    second: The Knight main sprites - atlas0 #00000357_682
+  - first:
+      213: 1176952201900427218
+    second: The Knight main sprites - atlas0 #00000357_683
+  - first:
+      213: -103000504048394876
+    second: The Knight main sprites - atlas0 #00000357_684
+  - first:
+      213: -7719924528997495030
+    second: The Knight main sprites - atlas0 #00000357_685
+  - first:
+      213: -2963770357888447252
+    second: The Knight main sprites - atlas0 #00000357_686
+  - first:
+      213: 5209914316757283443
+    second: The Knight main sprites - atlas0 #00000357_687
+  - first:
+      213: -648293356551847688
+    second: The Knight main sprites - atlas0 #00000357_688
+  - first:
+      213: 6667511408554382374
+    second: The Knight main sprites - atlas0 #00000357_689
+  - first:
+      213: -3419458471061528629
+    second: The Knight main sprites - atlas0 #00000357_690
+  - first:
+      213: 6854905933555050289
+    second: The Knight main sprites - atlas0 #00000357_691
+  - first:
+      213: -542249670169175217
+    second: The Knight main sprites - atlas0 #00000357_692
+  - first:
+      213: -946680000384407757
+    second: The Knight main sprites - atlas0 #00000357_693
+  - first:
+      213: 227528961683292896
+    second: The Knight main sprites - atlas0 #00000357_694
+  - first:
+      213: -1040426262175479775
+    second: The Knight main sprites - atlas0 #00000357_695
+  - first:
+      213: -6849183091555752311
+    second: The Knight main sprites - atlas0 #00000357_696
+  - first:
+      213: -1113071177385373720
+    second: The Knight main sprites - atlas0 #00000357_697
+  - first:
+      213: -351296302469514595
+    second: The Knight main sprites - atlas0 #00000357_698
+  - first:
+      213: 4071050572473155055
+    second: The Knight main sprites - atlas0 #00000357_699
+  - first:
+      213: 2887101408478288121
+    second: The Knight main sprites - atlas0 #00000357_700
+  - first:
+      213: -1462185400537084472
+    second: The Knight main sprites - atlas0 #00000357_701
+  - first:
+      213: 3564043979553332998
+    second: The Knight main sprites - atlas0 #00000357_702
+  - first:
+      213: 109774031759948022
+    second: The Knight main sprites - atlas0 #00000357_703
+  - first:
+      213: -645430259814328232
+    second: The Knight main sprites - atlas0 #00000357_704
+  - first:
+      213: -6570054292150264902
+    second: The Knight main sprites - atlas0 #00000357_705
+  - first:
+      213: 1963408157186978040
+    second: The Knight main sprites - atlas0 #00000357_706
+  - first:
+      213: 4738617984742509017
+    second: The Knight main sprites - atlas0 #00000357_707
+  - first:
+      213: -1356594741571359745
+    second: The Knight main sprites - atlas0 #00000357_708
+  - first:
+      213: 5969505034120103945
+    second: The Knight main sprites - atlas0 #00000357_709
+  - first:
+      213: 3104137248227078706
+    second: The Knight main sprites - atlas0 #00000357_710
+  - first:
+      213: -8074740712613739936
+    second: The Knight main sprites - atlas0 #00000357_711
+  - first:
+      213: 4351972470403488809
+    second: The Knight main sprites - atlas0 #00000357_712
+  - first:
+      213: -6391412634031992660
+    second: The Knight main sprites - atlas0 #00000357_713
+  - first:
+      213: -7846829375607450741
+    second: The Knight main sprites - atlas0 #00000357_714
+  - first:
+      213: -5518371691616738306
+    second: The Knight main sprites - atlas0 #00000357_715
+  - first:
+      213: 5124287643514458857
+    second: The Knight main sprites - atlas0 #00000357_716
+  - first:
+      213: -7555432744715398283
+    second: The Knight main sprites - atlas0 #00000357_717
+  - first:
+      213: -6466757165322562339
+    second: The Knight main sprites - atlas0 #00000357_718
+  - first:
+      213: -3392137570458108629
+    second: The Knight main sprites - atlas0 #00000357_719
+  - first:
+      213: 1119844205844186942
+    second: The Knight main sprites - atlas0 #00000357_720
+  - first:
+      213: 7952886088579673918
+    second: The Knight main sprites - atlas0 #00000357_721
+  - first:
+      213: 546506178391276568
+    second: The Knight main sprites - atlas0 #00000357_722
+  - first:
+      213: -9163018817147581769
+    second: The Knight main sprites - atlas0 #00000357_723
+  - first:
+      213: 851510809822699215
+    second: The Knight main sprites - atlas0 #00000357_724
+  - first:
+      213: 1571170437304468175
+    second: The Knight main sprites - atlas0 #00000357_725
+  - first:
+      213: 1665153236937647937
+    second: The Knight main sprites - atlas0 #00000357_726
+  - first:
+      213: -7319169024458277284
+    second: The Knight main sprites - atlas0 #00000357_727
+  - first:
+      213: -8264126773397599827
+    second: The Knight main sprites - atlas0 #00000357_728
+  - first:
+      213: -1690270852332199400
+    second: The Knight main sprites - atlas0 #00000357_729
+  - first:
+      213: 3292596866255317145
+    second: The Knight main sprites - atlas0 #00000357_730
+  - first:
+      213: 4233894027779409463
+    second: The Knight main sprites - atlas0 #00000357_731
+  - first:
+      213: -3880185780207535832
+    second: The Knight main sprites - atlas0 #00000357_732
+  - first:
+      213: -8700056051294001033
+    second: The Knight main sprites - atlas0 #00000357_733
+  - first:
+      213: -6597408060594460548
+    second: The Knight main sprites - atlas0 #00000357_734
+  - first:
+      213: 28124432742053993
+    second: The Knight main sprites - atlas0 #00000357_735
+  - first:
+      213: 8187913639938741252
+    second: The Knight main sprites - atlas0 #00000357_736
+  - first:
+      213: 5785375956305219968
+    second: The Knight main sprites - atlas0 #00000357_737
+  - first:
+      213: -3296153223267567663
+    second: The Knight main sprites - atlas0 #00000357_738
+  - first:
+      213: 8262526325263954367
+    second: The Knight main sprites - atlas0 #00000357_739
+  - first:
+      213: -8937282131420929395
+    second: The Knight main sprites - atlas0 #00000357_740
+  - first:
+      213: -8961167263084421438
+    second: The Knight main sprites - atlas0 #00000357_741
+  - first:
+      213: -7650106853347928576
+    second: The Knight main sprites - atlas0 #00000357_742
+  - first:
+      213: 2939804345339663796
+    second: The Knight main sprites - atlas0 #00000357_743
+  - first:
+      213: 335214876027232766
+    second: The Knight main sprites - atlas0 #00000357_744
+  - first:
+      213: 2176711476944207900
+    second: The Knight main sprites - atlas0 #00000357_745
+  - first:
+      213: 3190569346599093219
+    second: The Knight main sprites - atlas0 #00000357_746
+  - first:
+      213: 5271779399024672217
+    second: The Knight main sprites - atlas0 #00000357_747
+  - first:
+      213: 3325364976019079088
+    second: The Knight main sprites - atlas0 #00000357_748
+  - first:
+      213: -3899147040521520250
+    second: The Knight main sprites - atlas0 #00000357_749
+  - first:
+      213: -549514748334293966
+    second: The Knight main sprites - atlas0 #00000357_750
+  - first:
+      213: -5850322092633045575
+    second: The Knight main sprites - atlas0 #00000357_751
+  - first:
+      213: 8303170941475026617
+    second: The Knight main sprites - atlas0 #00000357_752
+  - first:
+      213: -3012235696553277253
+    second: The Knight main sprites - atlas0 #00000357_753
+  - first:
+      213: 3701098398935412933
+    second: The Knight main sprites - atlas0 #00000357_754
+  - first:
+      213: 8914088879282630763
+    second: The Knight main sprites - atlas0 #00000357_755
+  - first:
+      213: 3985038280827864067
+    second: The Knight main sprites - atlas0 #00000357_756
+  - first:
+      213: 3356314005287749852
+    second: The Knight main sprites - atlas0 #00000357_757
+  - first:
+      213: 8778109062801168659
+    second: The Knight main sprites - atlas0 #00000357_758
+  - first:
+      213: -4161701355769154792
+    second: The Knight main sprites - atlas0 #00000357_759
+  - first:
+      213: -1691594671626505555
+    second: The Knight main sprites - atlas0 #00000357_760
+  - first:
+      213: 743096002732227766
+    second: The Knight main sprites - atlas0 #00000357_761
+  - first:
+      213: 5751498914354196020
+    second: The Knight main sprites - atlas0 #00000357_762
+  - first:
+      213: -3420974824173040491
+    second: The Knight main sprites - atlas0 #00000357_763
+  - first:
+      213: -2792556630999122259
+    second: The Knight main sprites - atlas0 #00000357_764
+  - first:
+      213: -3028346739507970992
+    second: The Knight main sprites - atlas0 #00000357_765
+  - first:
+      213: -7805251904067965560
+    second: The Knight main sprites - atlas0 #00000357_766
+  - first:
+      213: 5500890307153153333
+    second: The Knight main sprites - atlas0 #00000357_767
+  - first:
+      213: -4666257087684639416
+    second: The Knight main sprites - atlas0 #00000357_768
+  - first:
+      213: 5998184141435426690
+    second: The Knight main sprites - atlas0 #00000357_769
+  - first:
+      213: -5765916181899032936
+    second: The Knight main sprites - atlas0 #00000357_770
+  - first:
+      213: -1674772705678507279
+    second: The Knight main sprites - atlas0 #00000357_771
+  - first:
+      213: 636930379830703848
+    second: The Knight main sprites - atlas0 #00000357_772
+  - first:
+      213: 3484713237278541890
+    second: The Knight main sprites - atlas0 #00000357_773
+  - first:
+      213: 7407847555534363001
+    second: The Knight main sprites - atlas0 #00000357_774
+  - first:
+      213: -4534179039046735875
+    second: The Knight main sprites - atlas0 #00000357_775
+  - first:
+      213: -7953748932372692804
+    second: The Knight main sprites - atlas0 #00000357_776
+  - first:
+      213: -1042436571178085635
+    second: The Knight main sprites - atlas0 #00000357_777
+  - first:
+      213: 8366834665665758643
+    second: The Knight main sprites - atlas0 #00000357_778
+  - first:
+      213: 1127577166644662573
+    second: The Knight main sprites - atlas0 #00000357_779
+  - first:
+      213: 6232103200113831550
+    second: The Knight main sprites - atlas0 #00000357_780
+  - first:
+      213: 9035452913819327098
+    second: The Knight main sprites - atlas0 #00000357_781
+  - first:
+      213: -2544140091320868927
+    second: The Knight main sprites - atlas0 #00000357_782
+  - first:
+      213: 4430083220923615362
+    second: The Knight main sprites - atlas0 #00000357_783
+  - first:
+      213: 2740088250696671365
+    second: The Knight main sprites - atlas0 #00000357_784
+  - first:
+      213: 7546109087365552914
+    second: The Knight main sprites - atlas0 #00000357_785
+  - first:
+      213: 1605477274636868277
+    second: The Knight main sprites - atlas0 #00000357_786
+  - first:
+      213: -7906704645089233692
+    second: The Knight main sprites - atlas0 #00000357_787
+  - first:
+      213: 4999743625492193822
+    second: The Knight main sprites - atlas0 #00000357_788
+  - first:
+      213: -4652656680750823807
+    second: The Knight main sprites - atlas0 #00000357_789
+  - first:
+      213: 7352615699792795924
+    second: The Knight main sprites - atlas0 #00000357_790
+  - first:
+      213: 8809900118021363496
+    second: The Knight main sprites - atlas0 #00000357_791
+  - first:
+      213: -5047103149159652564
+    second: The Knight main sprites - atlas0 #00000357_792
+  - first:
+      213: -8964264125965965672
+    second: The Knight main sprites - atlas0 #00000357_793
+  - first:
+      213: -2957922260498754620
+    second: The Knight main sprites - atlas0 #00000357_794
+  - first:
+      213: -7292853640441979427
+    second: The Knight main sprites - atlas0 #00000357_795
+  - first:
+      213: -6126371933205238062
+    second: The Knight main sprites - atlas0 #00000357_796
+  - first:
+      213: -2473549245822506860
+    second: The Knight main sprites - atlas0 #00000357_797
+  - first:
+      213: -8740032641043383146
+    second: The Knight main sprites - atlas0 #00000357_798
+  - first:
+      213: 5776743262877284768
+    second: The Knight main sprites - atlas0 #00000357_799
+  - first:
+      213: 3350681686020612983
+    second: The Knight main sprites - atlas0 #00000357_800
+  - first:
+      213: 7188880619441167978
+    second: The Knight main sprites - atlas0 #00000357_801
+  - first:
+      213: 7982706822792166351
+    second: The Knight main sprites - atlas0 #00000357_802
+  - first:
+      213: -754075314737104983
+    second: The Knight main sprites - atlas0 #00000357_803
+  - first:
+      213: -3489412756934279555
+    second: The Knight main sprites - atlas0 #00000357_804
+  - first:
+      213: -6348648161844832966
+    second: The Knight main sprites - atlas0 #00000357_805
+  - first:
+      213: 1551757794253529243
+    second: The Knight main sprites - atlas0 #00000357_806
+  - first:
+      213: 289136269651571523
+    second: The Knight main sprites - atlas0 #00000357_807
+  - first:
+      213: 2629525495459172923
+    second: The Knight main sprites - atlas0 #00000357_808
+  - first:
+      213: -54980507348325117
+    second: The Knight main sprites - atlas0 #00000357_809
+  - first:
+      213: -6951559837795219062
+    second: The Knight main sprites - atlas0 #00000357_810
+  - first:
+      213: 5414910358373268371
+    second: The Knight main sprites - atlas0 #00000357_811
+  - first:
+      213: 8566926058133421176
+    second: The Knight main sprites - atlas0 #00000357_812
+  - first:
+      213: 6069327649417945944
+    second: The Knight main sprites - atlas0 #00000357_813
+  - first:
+      213: -903425562285009197
+    second: The Knight main sprites - atlas0 #00000357_814
+  - first:
+      213: 7020626537746961992
+    second: The Knight main sprites - atlas0 #00000357_815
+  - first:
+      213: -8296056507141046364
+    second: The Knight main sprites - atlas0 #00000357_816
+  - first:
+      213: 5725165213006303539
+    second: The Knight main sprites - atlas0 #00000357_817
+  - first:
+      213: 816948700792274670
+    second: The Knight main sprites - atlas0 #00000357_818
+  - first:
+      213: -2377200042055631546
+    second: The Knight main sprites - atlas0 #00000357_819
+  - first:
+      213: -6646498839501667335
+    second: The Knight main sprites - atlas0 #00000357_820
+  - first:
+      213: -4834242826468801237
+    second: The Knight main sprites - atlas0 #00000357_821
+  - first:
+      213: 4800393174094768938
+    second: The Knight main sprites - atlas0 #00000357_822
+  - first:
+      213: 2402736572772246716
+    second: The Knight main sprites - atlas0 #00000357_823
+  - first:
+      213: 7667295012343981942
+    second: The Knight main sprites - atlas0 #00000357_824
+  - first:
+      213: -5432973239093869738
+    second: The Knight main sprites - atlas0 #00000357_825
+  - first:
+      213: -1496540951980144174
+    second: The Knight main sprites - atlas0 #00000357_826
+  - first:
+      213: 865656877283041643
+    second: The Knight main sprites - atlas0 #00000357_827
+  - first:
+      213: -8387495595944173603
+    second: The Knight main sprites - atlas0 #00000357_828
+  - first:
+      213: 4746700159286088691
+    second: The Knight main sprites - atlas0 #00000357_829
+  - first:
+      213: 3970237958675055895
+    second: The Knight main sprites - atlas0 #00000357_830
+  - first:
+      213: -7484086908230177938
+    second: The Knight main sprites - atlas0 #00000357_831
+  - first:
+      213: -7667553773330200016
+    second: The Knight main sprites - atlas0 #00000357_832
+  - first:
+      213: 4298114376785173349
+    second: The Knight main sprites - atlas0 #00000357_833
+  - first:
+      213: 8822697573142965389
+    second: The Knight main sprites - atlas0 #00000357_834
+  - first:
+      213: 7852051388395838984
+    second: The Knight main sprites - atlas0 #00000357_835
+  - first:
+      213: -914735486953795112
+    second: The Knight main sprites - atlas0 #00000357_836
+  - first:
+      213: -2301890606003298750
+    second: The Knight main sprites - atlas0 #00000357_837
+  - first:
+      213: -2851833467889705940
+    second: The Knight main sprites - atlas0 #00000357_838
+  - first:
+      213: -5916435831386711993
+    second: The Knight main sprites - atlas0 #00000357_839
+  - first:
+      213: 8895864637236590219
+    second: The Knight main sprites - atlas0 #00000357_840
+  - first:
+      213: 6678977140754032705
+    second: The Knight main sprites - atlas0 #00000357_841
+  - first:
+      213: 2517879117449441100
+    second: The Knight main sprites - atlas0 #00000357_842
+  - first:
+      213: -3863651815279754999
+    second: The Knight main sprites - atlas0 #00000357_843
+  - first:
+      213: 3477311931441506541
+    second: The Knight main sprites - atlas0 #00000357_844
+  - first:
+      213: 1620882585043143657
+    second: The Knight main sprites - atlas0 #00000357_845
+  - first:
+      213: -6431124493430061395
+    second: The Knight main sprites - atlas0 #00000357_846
+  - first:
+      213: -9045258223351104753
+    second: The Knight main sprites - atlas0 #00000357_847
+  - first:
+      213: 4823929900767790150
+    second: The Knight main sprites - atlas0 #00000357_848
+  - first:
+      213: -8276599767774736806
+    second: The Knight main sprites - atlas0 #00000357_849
+  - first:
+      213: -7457784832454089395
+    second: The Knight main sprites - atlas0 #00000357_850
+  - first:
+      213: 2022276319789657297
+    second: The Knight main sprites - atlas0 #00000357_851
+  - first:
+      213: 1470760365643354306
+    second: The Knight main sprites - atlas0 #00000357_852
+  - first:
+      213: 7144627236224923263
+    second: The Knight main sprites - atlas0 #00000357_853
+  - first:
+      213: -7920154283363887243
+    second: The Knight main sprites - atlas0 #00000357_854
+  - first:
+      213: 1452015199671132393
+    second: The Knight main sprites - atlas0 #00000357_855
+  - first:
+      213: -6416736900096459626
+    second: The Knight main sprites - atlas0 #00000357_856
+  - first:
+      213: -8586678324064166343
+    second: The Knight main sprites - atlas0 #00000357_857
+  - first:
+      213: -3350792290104057000
+    second: The Knight main sprites - atlas0 #00000357_858
+  - first:
+      213: 2908704109744624272
+    second: The Knight main sprites - atlas0 #00000357_859
+  - first:
+      213: 826687275073465013
+    second: The Knight main sprites - atlas0 #00000357_860
+  - first:
+      213: -2771834881410034199
+    second: The Knight main sprites - atlas0 #00000357_861
+  - first:
+      213: -5879060745705930115
+    second: The Knight main sprites - atlas0 #00000357_862
+  - first:
+      213: 6606620469159809351
+    second: The Knight main sprites - atlas0 #00000357_863
+  - first:
+      213: 5506435531123292250
+    second: The Knight main sprites - atlas0 #00000357_864
+  - first:
+      213: 1411980555376456143
+    second: The Knight main sprites - atlas0 #00000357_865
+  - first:
+      213: 8185663632715233485
+    second: The Knight main sprites - atlas0 #00000357_866
+  - first:
+      213: 1101736796289065947
+    second: The Knight main sprites - atlas0 #00000357_867
+  - first:
+      213: 6074830328741598237
+    second: The Knight main sprites - atlas0 #00000357_868
+  - first:
+      213: -3901982098494741527
+    second: The Knight main sprites - atlas0 #00000357_869
+  - first:
+      213: -3663808723989109593
+    second: The Knight main sprites - atlas0 #00000357_870
+  - first:
+      213: -6713851315784497643
+    second: The Knight main sprites - atlas0 #00000357_871
+  - first:
+      213: 4493040472832958658
+    second: The Knight main sprites - atlas0 #00000357_872
+  - first:
+      213: 5308820511166748060
+    second: The Knight main sprites - atlas0 #00000357_873
+  - first:
+      213: 4702577095544408440
+    second: The Knight main sprites - atlas0 #00000357_874
+  - first:
+      213: -4753198463611703002
+    second: The Knight main sprites - atlas0 #00000357_875
+  - first:
+      213: 3328258631836276932
+    second: The Knight main sprites - atlas0 #00000357_876
+  - first:
+      213: 1139264754233111648
+    second: The Knight main sprites - atlas0 #00000357_877
+  - first:
+      213: 527745986447805250
+    second: The Knight main sprites - atlas0 #00000357_878
+  - first:
+      213: 6065693291642854224
+    second: The Knight main sprites - atlas0 #00000357_879
+  - first:
+      213: -8117235876485897560
+    second: The Knight main sprites - atlas0 #00000357_880
+  - first:
+      213: 7668633617954387714
+    second: The Knight main sprites - atlas0 #00000357_881
+  - first:
+      213: 4292923525987021756
+    second: The Knight main sprites - atlas0 #00000357_882
+  - first:
+      213: -8589503049644005331
+    second: The Knight main sprites - atlas0 #00000357_883
+  - first:
+      213: -759426718410336508
+    second: The Knight main sprites - atlas0 #00000357_884
+  - first:
+      213: -8295173883865793128
+    second: The Knight main sprites - atlas0 #00000357_885
+  - first:
+      213: 4844714713668720185
+    second: The Knight main sprites - atlas0 #00000357_886
+  - first:
+      213: 1921137495139835682
+    second: The Knight main sprites - atlas0 #00000357_887
+  - first:
+      213: 6025790781457578857
+    second: The Knight main sprites - atlas0 #00000357_888
+  - first:
+      213: 9137980532003091618
+    second: The Knight main sprites - atlas0 #00000357_889
+  - first:
+      213: -3937149133997570295
+    second: The Knight main sprites - atlas0 #00000357_890
+  - first:
+      213: -79710569093574626
+    second: The Knight main sprites - atlas0 #00000357_891
+  - first:
+      213: -713497488970811760
+    second: The Knight main sprites - atlas0 #00000357_892
+  - first:
+      213: 7398153009603558854
+    second: The Knight main sprites - atlas0 #00000357_893
+  - first:
+      213: 8475521973522911464
+    second: The Knight main sprites - atlas0 #00000357_894
+  - first:
+      213: -1021071838617026023
+    second: The Knight main sprites - atlas0 #00000357_895
+  - first:
+      213: -359809632150376054
+    second: The Knight main sprites - atlas0 #00000357_896
+  - first:
+      213: 7611449750703751685
+    second: The Knight main sprites - atlas0 #00000357_897
+  - first:
+      213: -6309223227132194492
+    second: The Knight main sprites - atlas0 #00000357_898
+  - first:
+      213: 2788678084343576081
+    second: The Knight main sprites - atlas0 #00000357_899
+  - first:
+      213: 225309334516129505
+    second: The Knight main sprites - atlas0 #00000357_900
+  - first:
+      213: 2512098016010378676
+    second: The Knight main sprites - atlas0 #00000357_901
+  - first:
+      213: -4133065602025019573
+    second: The Knight main sprites - atlas0 #00000357_902
+  - first:
+      213: -3388574064436328375
+    second: The Knight main sprites - atlas0 #00000357_903
+  - first:
+      213: -3116628252330425917
+    second: The Knight main sprites - atlas0 #00000357_904
+  - first:
+      213: 5064498911517200705
+    second: The Knight main sprites - atlas0 #00000357_905
+  - first:
+      213: 2310013896508689166
+    second: The Knight main sprites - atlas0 #00000357_906
+  - first:
+      213: 8521079203259209564
+    second: The Knight main sprites - atlas0 #00000357_907
+  - first:
+      213: 6973770486504817371
+    second: The Knight main sprites - atlas0 #00000357_908
+  - first:
+      213: 4476234132625615164
+    second: The Knight main sprites - atlas0 #00000357_909
+  - first:
+      213: 6251649508636793809
+    second: The Knight main sprites - atlas0 #00000357_910
+  - first:
+      213: 6523755666241467724
+    second: The Knight main sprites - atlas0 #00000357_911
+  - first:
+      213: 7754117015545430038
+    second: The Knight main sprites - atlas0 #00000357_912
+  - first:
+      213: 8430839583926249778
+    second: The Knight main sprites - atlas0 #00000357_913
+  - first:
+      213: -1221582048499960048
+    second: The Knight main sprites - atlas0 #00000357_914
+  - first:
+      213: 5736493870301775497
+    second: The Knight main sprites - atlas0 #00000357_915
+  - first:
+      213: -9212046690423968070
+    second: The Knight main sprites - atlas0 #00000357_916
+  - first:
+      213: -2593938872055139111
+    second: The Knight main sprites - atlas0 #00000357_917
+  - first:
+      213: -1265518011532380324
+    second: The Knight main sprites - atlas0 #00000357_918
+  - first:
+      213: -8671005571274814457
+    second: The Knight main sprites - atlas0 #00000357_919
+  - first:
+      213: 1061680707040003060
+    second: The Knight main sprites - atlas0 #00000357_920
+  - first:
+      213: 4592665676265294173
+    second: The Knight main sprites - atlas0 #00000357_921
+  - first:
+      213: 3998133447888638161
+    second: The Knight main sprites - atlas0 #00000357_922
+  - first:
+      213: -133658881471250293
+    second: The Knight main sprites - atlas0 #00000357_923
+  - first:
+      213: 7970860646858675367
+    second: The Knight main sprites - atlas0 #00000357_924
+  - first:
+      213: -1105162751052971787
+    second: The Knight main sprites - atlas0 #00000357_925
+  - first:
+      213: 2575581193557913933
+    second: The Knight main sprites - atlas0 #00000357_926
+  - first:
+      213: 4441792079774662970
+    second: The Knight main sprites - atlas0 #00000357_927
+  - first:
+      213: 5431618751696599904
+    second: The Knight main sprites - atlas0 #00000357_928
+  - first:
+      213: 1401799358037662516
+    second: The Knight main sprites - atlas0 #00000357_929
+  - first:
+      213: 8322130208493913121
+    second: The Knight main sprites - atlas0 #00000357_930
+  - first:
+      213: -2861994698922051752
+    second: The Knight main sprites - atlas0 #00000357_931
+  - first:
+      213: 4332094868469989569
+    second: The Knight main sprites - atlas0 #00000357_932
+  - first:
+      213: 2754324069530218106
+    second: The Knight main sprites - atlas0 #00000357_933
+  - first:
+      213: 5284176905107031457
+    second: The Knight main sprites - atlas0 #00000357_934
+  - first:
+      213: 7220935508769942830
+    second: The Knight main sprites - atlas0 #00000357_935
+  - first:
+      213: 2322354089499981196
+    second: The Knight main sprites - atlas0 #00000357_936
+  - first:
+      213: 7078839665716862550
+    second: The Knight main sprites - atlas0 #00000357_937
+  - first:
+      213: -5871814340539341190
+    second: The Knight main sprites - atlas0 #00000357_938
+  - first:
+      213: -2046981454746677513
+    second: The Knight main sprites - atlas0 #00000357_939
+  - first:
+      213: -8411174675679991752
+    second: The Knight main sprites - atlas0 #00000357_940
+  - first:
+      213: 4754644976573768581
+    second: The Knight main sprites - atlas0 #00000357_941
+  - first:
+      213: 5649717413086069393
+    second: The Knight main sprites - atlas0 #00000357_942
+  - first:
+      213: 994863297444108026
+    second: The Knight main sprites - atlas0 #00000357_943
+  - first:
+      213: 5320090590880835667
+    second: The Knight main sprites - atlas0 #00000357_944
+  - first:
+      213: -5824029175012332257
+    second: The Knight main sprites - atlas0 #00000357_945
+  - first:
+      213: -8534245432435583924
+    second: The Knight main sprites - atlas0 #00000357_946
+  - first:
+      213: 2561924944529268076
+    second: The Knight main sprites - atlas0 #00000357_947
+  - first:
+      213: -5820885792626102128
+    second: The Knight main sprites - atlas0 #00000357_948
+  - first:
+      213: 5207564185686295034
+    second: The Knight main sprites - atlas0 #00000357_949
+  - first:
+      213: 4092533160349084257
+    second: The Knight main sprites - atlas0 #00000357_950
+  - first:
+      213: 6775566761954626057
+    second: The Knight main sprites - atlas0 #00000357_951
+  - first:
+      213: 5315139102891041095
+    second: The Knight main sprites - atlas0 #00000357_952
+  - first:
+      213: -6337779959196869585
+    second: The Knight main sprites - atlas0 #00000357_953
+  - first:
+      213: 840731933374386088
+    second: The Knight main sprites - atlas0 #00000357_954
+  - first:
+      213: -1142751925102928162
+    second: The Knight main sprites - atlas0 #00000357_955
+  - first:
+      213: -19276562783078185
+    second: The Knight main sprites - atlas0 #00000357_956
+  - first:
+      213: 2568601797344491551
+    second: The Knight main sprites - atlas0 #00000357_957
+  - first:
+      213: -1444513475009610016
+    second: The Knight main sprites - atlas0 #00000357_958
+  - first:
+      213: 9212203567974776268
+    second: The Knight main sprites - atlas0 #00000357_959
+  - first:
+      213: 7098184263351608490
+    second: The Knight main sprites - atlas0 #00000357_960
+  - first:
+      213: 5264163105605995811
+    second: The Knight main sprites - atlas0 #00000357_961
+  - first:
+      213: -105210487991871483
+    second: The Knight main sprites - atlas0 #00000357_962
+  - first:
+      213: 8037206052276307470
+    second: The Knight main sprites - atlas0 #00000357_963
+  - first:
+      213: 909848461639029973
+    second: The Knight main sprites - atlas0 #00000357_964
+  - first:
+      213: 4507191072812464923
+    second: The Knight main sprites - atlas0 #00000357_965
+  - first:
+      213: 4122254428750712376
+    second: The Knight main sprites - atlas0 #00000357_966
+  - first:
+      213: 1298295403886369550
+    second: The Knight main sprites - atlas0 #00000357_967
+  - first:
+      213: 1290195234165323806
+    second: The Knight main sprites - atlas0 #00000357_968
+  - first:
+      213: 3077189133759905503
+    second: The Knight main sprites - atlas0 #00000357_969
+  - first:
+      213: -689064439558626994
+    second: The Knight main sprites - atlas0 #00000357_970
+  - first:
+      213: 6132353919621057390
+    second: The Knight main sprites - atlas0 #00000357_971
+  - first:
+      213: 7063847229584455398
+    second: The Knight main sprites - atlas0 #00000357_972
+  - first:
+      213: 228394400234165096
+    second: The Knight main sprites - atlas0 #00000357_973
+  - first:
+      213: -8286869200690475546
+    second: The Knight main sprites - atlas0 #00000357_974
+  - first:
+      213: -3521200664877792845
+    second: The Knight main sprites - atlas0 #00000357_975
+  - first:
+      213: 4221861779081271778
+    second: The Knight main sprites - atlas0 #00000357_976
+  - first:
+      213: -2011006166457755675
+    second: The Knight main sprites - atlas0 #00000357_977
+  - first:
+      213: 8671436240406703668
+    second: The Knight main sprites - atlas0 #00000357_978
+  - first:
+      213: 8314253023373725599
+    second: The Knight main sprites - atlas0 #00000357_979
+  - first:
+      213: -2436703469313669542
+    second: The Knight main sprites - atlas0 #00000357_980
+  - first:
+      213: 3477530623337021433
+    second: The Knight main sprites - atlas0 #00000357_981
+  - first:
+      213: 3766389982831752791
+    second: The Knight main sprites - atlas0 #00000357_982
+  - first:
+      213: 7444979100950570604
+    second: The Knight main sprites - atlas0 #00000357_983
+  - first:
+      213: 4282028834680975281
+    second: The Knight main sprites - atlas0 #00000357_984
+  - first:
+      213: -5255969857310180817
+    second: The Knight main sprites - atlas0 #00000357_985
+  - first:
+      213: 6731425125493764748
+    second: The Knight main sprites - atlas0 #00000357_986
+  - first:
+      213: 882133350025660067
+    second: The Knight main sprites - atlas0 #00000357_987
+  - first:
+      213: -3775980209896241775
+    second: The Knight main sprites - atlas0 #00000357_988
+  - first:
+      213: -6552125858696123505
+    second: The Knight main sprites - atlas0 #00000357_989
+  - first:
+      213: -589840243473114473
+    second: The Knight main sprites - atlas0 #00000357_990
+  - first:
+      213: 5591632054633912209
+    second: The Knight main sprites - atlas0 #00000357_991
+  - first:
+      213: -2586439382156263325
+    second: The Knight main sprites - atlas0 #00000357_992
+  - first:
+      213: 2421786833013906253
+    second: The Knight main sprites - atlas0 #00000357_993
+  - first:
+      213: -6094933693413142045
+    second: The Knight main sprites - atlas0 #00000357_994
+  - first:
+      213: -1465414028204882968
+    second: The Knight main sprites - atlas0 #00000357_995
+  - first:
+      213: 1064788907970774760
+    second: The Knight main sprites - atlas0 #00000357_996
+  - first:
+      213: 1686673477776644268
+    second: The Knight main sprites - atlas0 #00000357_997
+  - first:
+      213: -9045483532037513817
+    second: The Knight main sprites - atlas0 #00000357_998
+  - first:
+      213: 996450968080461732
+    second: The Knight main sprites - atlas0 #00000357_999
+  - first:
+      213: -4545504933729666547
+    second: The Knight main sprites - atlas0 #00000357_1000
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Knight main sprites - atlas0 #00000357_0
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 3893
+        width: 74
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d10ce3953e248c0800000000000000
+      internalID: -4016397945216688812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight main sprites - atlas0 #00000357_1
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1771
+        width: 127
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dec1516c4de4610800000000000000
+      internalID: 1607456064240676168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight main sprites - atlas0 #00000357_2
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 357
+        width: 140
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e610e1bd569df340800000000000000
+      internalID: 4899237298809345764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight main sprites - atlas0 #00000357_3
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 352
+        width: 132
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bc7d1787fcba2e0800000000000000
+      internalID: -2113367483907323018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight main sprites - atlas0 #00000357_4
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 3204
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3dec76932db3c60800000000000000
+      internalID: 7799058323718722514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight main sprites - atlas0 #00000357_5
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3898
+        width: 246
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a850c4abd8c87aec0800000000000000
+      internalID: -3555718840441895542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight main sprites - atlas0 #00000357_6
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 4004
+        width: 222
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b13615399ff80b0800000000000000
+      internalID: -5724082190243652743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
