@@ -6,19 +6,19 @@ using UnityEngine.SceneManagement;
 public class Menu : MonoBehaviour
 {   
 
-
-
+    [SerializeField] int sceneToLoad=-1; // editable scene to load through editor
    
-    [SerializeField] int sceneToLoad=-1;
-   
-    public void PlayGame(){
+    //Function to load the game scene
+    public void PlayGame()
+    {
         
-    
-            SceneManager.LoadScene(sceneToLoad);
+        SceneManager.LoadScene(sceneToLoad);
             
-        }
+     }
     
-    public void QuitGame(){
+    //Function to Quit the game
+    public void QuitGame()
+    {
         Debug.Log("Quit");
         Application.Quit();
     }

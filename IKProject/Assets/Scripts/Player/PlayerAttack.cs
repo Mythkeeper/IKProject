@@ -5,14 +5,12 @@ using UnityEngine;
 public class PlayerAttack : MonoBehaviour
 {
     private float timeBtwAttack; //So that player cannot spam attack
-    public float startTimeBtwAttack;
-
-    public Transform attackPos;
-    public LayerMask WhatIsEnemies;
-    public float attackRange;
-    public int damage;
-    
-    public Animator playerAnim;
+    public float startTimeBtwAttack; //changable variable to smooth things out
+    public Transform attackPos; //Object that detects enemies through enemies layer mask
+    public LayerMask WhatIsEnemies; // enemies layer mask
+    public float attackRange; //range
+    public int damage; //damage 
+    public Animator playerAnim; // animator
 
    
 
@@ -24,7 +22,7 @@ public class PlayerAttack : MonoBehaviour
             if(Input.GetKey(KeyCode.Mouse0)) // to get left click input
             {
                 
-                playerAnim.SetTrigger("attack");
+                playerAnim.SetTrigger("attack");// trigger attack anim
                 Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position,attackRange,WhatIsEnemies); // check for all enemies in a certain radius and deal dmg
                 for (int i=0;i<enemiesToDamage.Length;i++){
                     enemiesToDamage[i].GetComponent<Enemy>().TakeDamage(damage);
