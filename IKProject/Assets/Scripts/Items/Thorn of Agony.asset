@@ -9,12 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4d853ee8538f8f54aa356d444f414d26, type: 3}
-  m_Name: Thorn of Agony
+  m_Script: {fileID: 11500000, guid: 26522d1754be6964a9c59d9c1a2e784e, type: 3}
+  m_Name: Thorn Of Agony
   m_EditorClassIdentifier: 
-  name: Thorn of Agony
-  icon: {fileID: 21300000, guid: f77e98d29495b974e87256e6e7ca7beb, type: 3}
-  isDefaultItem: 0
-  eqSlot: 0
-  armorMod: 0
-  dmgMod: 2
+  type: 0
+  description: A thorn
+  atkBonus: 2
+  defenceBonus: 0

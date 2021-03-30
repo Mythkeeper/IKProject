@@ -1,25 +1,36 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName= "New Item", menuName="Inventory/Item")] //to be able to create new objects of type item
-public class Item : ScriptableObject
+
+//Item types enumerator
+public enum ItemType
 {
-    new public string name="New Item"; //name var
-    public Sprite icon= null; //sprite var
-    public bool isDefaultItem= false; // default item if there is any
-
-    //function for when we use the item
-    //virtual void because different items do different things on use
-    public virtual void Use()
-    {
-
-        // something may happen 
-        //use hte item
-        Debug.Log("Using" +name);
-    }
-    public void RemoveFromInventory()
-    {
-        Inventory.instance.Remove(this);
-    }
+    
+    Equipment,
+    Default
 }
+
+public enum Attributes
+{
+    Agility,
+    Intellect,
+    Stamina,
+    Strength
+}
+
+//all other object types regarding items will derive and inherit from this class
+public abstract class Item : ScriptableObject
+{
+ 
+    public ItemType type;
+    [TextArea(15, 20)] //to give the description space
+    public string description;
+  
+
+   
+}
+
+
+
+
