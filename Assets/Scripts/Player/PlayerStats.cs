@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class PlayerStats : CharacterStats
 {
 
+<<<<<<< HEAD
     #region Singleton
 
     public static PlayerStats instance;
@@ -17,22 +18,30 @@ public class PlayerStats : CharacterStats
     }
 
     #endregion
+=======
+>>>>>>> a7a94dba4fb262a58d76dc93bbefb285fbd7bdec
     public int numOfMasks;
     public Image[] masks; 
     public Sprite fullmask;
     public Sprite emptymask;
     
+<<<<<<< HEAD
     public int currentGold;
     public Text GoldCounter;
     
+=======
+>>>>>>> a7a94dba4fb262a58d76dc93bbefb285fbd7bdec
     // Start is called before the first frame update
     void Start()
     {
         EquipmentManager.instance.onEquipmentChanged +=OnEquipmentChanged;
         numOfMasks=4;
         currentHealth=numOfMasks;
+<<<<<<< HEAD
         damage.UpdateStats(1);
         
+=======
+>>>>>>> a7a94dba4fb262a58d76dc93bbefb285fbd7bdec
     }
 
 
@@ -66,6 +75,7 @@ public class PlayerStats : CharacterStats
         }
     }
 
+<<<<<<< HEAD
 
   
   public void GetGold(int quantity)
@@ -73,6 +83,8 @@ public class PlayerStats : CharacterStats
       currentGold+=quantity;
       GoldCounter.text= currentGold.ToString();
   }
+=======
+>>>>>>> a7a94dba4fb262a58d76dc93bbefb285fbd7bdec
 //Update stats when equipment is changed.
     void OnEquipmentChanged (Equipment newItem, Equipment oldItem)
     {
